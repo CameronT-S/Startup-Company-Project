@@ -1,0 +1,203 @@
+id,tag,batch,nonprofit,b2b,public,industry
+1,Active,,No,No,No,Active
+2,SaaS,,No,No,No,SaaS
+3,S22,S22,No,No,No,
+4,W22,W22,No,No,No,
+5,B2B,,No,Yes,No,
+6,Fintech,,No,No,No,Fintech
+7,Developer Tools,,No,No,No,Developer Tools
+8,Marketplace,,No,No,No,Marketplace
+9,W15,W15,No,No,No,
+10,Artifical Intelligence,,No,No,No,Artifical Intelligence
+11,Crypto / Web3,,No,No,No,Crypto / Web3
+12,S15,S15,No,No,No,
+13,Consumer,,No,No,No,Consumer
+14,Machine Learning,,No,No,No,Machine Learning
+15,E-commerce,,No,No,No,E-commerce
+16,W16,W16,No,No,No,
+17,Climate,,No,No,No,Climate
+18,W14,W14,No,No,No,
+19,Healthcare,,No,No,No,Healthcare
+20,S14,S14,No,No,No,
+21,Payments,,No,No,No,Payments
+22,W18,W18,No,No,No,
+23,API,,No,No,No,API
+24,S12,S12,No,No,No,
+25,Acquired,,No,No,No,Acquired
+26,Logistics,,No,No,No,Logistics
+27,Analytics,,No,No,No,Analytics
+28,Data Engineering,,No,No,No,Data Engineering
+29,Enterprise,,No,No,No,Enterprise
+30,W19,W19,No,No,No,
+31,Biotech,,No,No,No,Biotech
+32,Proptech,,No,No,No,Proptech
+33,Productivity,,No,No,No,Productivity
+34,Neobank,,No,No,No,Neobank
+35,Digital Health,,No,No,No,Digital Health
+36,Consumer Health Services,,No,No,No,Consumer Health Services
+37,W13,W13,No,No,No,
+38,Education,,No,No,No,Education
+39,S19,S19,No,No,No,
+40,Hardware,,No,No,No,Hardware
+41,S18,S18,No,No,No,
+42,Health Tech,,No,No,No,Health Tech
+43,S13,S13,No,No,No,
+44,HR Tech,,No,No,No,HR Tech
+45,S17,S17,No,No,No,
+46,S16,S16,No,No,No,
+47,W12,W12,No,No,No,
+48,W17,W17,No,No,No,
+49,Gaming,,No,No,No,Gaming
+50,W20,W20,No,No,No,
+51,Public,,No,No,Yes,
+52,Supply Chain,,No,No,No,Supply Chain
+53,Open Source,,No,No,No,Open Source
+54,Real Estate,,No,No,No,Real Estate
+55,Food Tech,,No,No,No,Food Tech
+56,Security,,No,No,No,Security
+57,DeFi,,No,No,No,DeFi
+58,DevSecOps,,No,No,No,DevSecOps
+59,Hard Tech,,No,No,No,Hard Tech
+60,Investing,,No,No,No,Investing
+61,NFT,,No,No,No,NFT
+62,W21,W21,No,No,No,
+63,Insurance,,No,No,No,Insurance
+64,S20,S20,No,No,No,
+65,Robotics,,No,No,No,Robotics
+66,Delivery,,No,No,No,Delivery
+67,Medical Devices,,No,No,No,Medical Devices
+68,Banking as a Service,,No,No,No,Banking as a Service
+69,Computer Vision,,No,No,No,Computer Vision
+70,Identity,,No,No,No,Identity
+71,S11,S11,No,No,No,
+72,No-code,,No,No,No,No-code
+73,Entertainment,,No,No,No,Entertainment
+74,Social,,No,No,No,Social
+75,Mental Health Tech,,No,No,No,Mental Health Tech
+76,Human Resources,,No,No,No,Human Resources
+77,Video,,No,No,No,Video
+78,Sales,,No,No,No,Sales
+79,Construction,,No,No,No,Construction
+80,Therapeutics,,No,No,No,Therapeutics
+81,Retail,,No,No,No,Retail
+82,Creator Economy,,No,No,No,Creator Economy
+83,Recruiting,,No,No,No,Recruiting
+84,Community,,No,No,No,Community
+85,Electric Vehicles,,No,No,No,Electric Vehicles
+86,Carbon Capture and Removal,,No,No,No,Carbon Capture and Removal
+87,ClimateTech,,No,No,No,ClimateTech
+88,Health Insurance,,No,No,No,Health Insurance
+89,Virtual Reality,,No,No,No,Virtual Reality
+90,Documents,,No,No,No,Documents
+91,Telehealth,,No,No,No,Telehealth
+92,Deep Learning,,No,No,No,Deep Learning
+93,Grocery,,No,No,No,Grocery
+94,NLP,,No,No,No,NLP
+95,Design Tools,,No,No,No,Design Tools
+96,IoT,,No,No,No,IoT
+97,Compliance,,No,No,No,Compliance
+98,Energy,,No,No,No,Energy
+99,Transportation,,No,No,No,Transportation
+100,Nonprofit,,Yes,No,No,
+101,S21,S21,No,No,No,
+102,Telemedicine,,No,No,No,Telemedicine
+103,S09,S09,No,No,No,
+104,FinOps,,No,No,No,FinOps
+105,Solar Power,,No,No,No,Solar Power
+106,Subscriptions,,No,No,No,Subscriptions
+107,Energy Storage,,No,No,No,Energy Storage
+108,Remote Work,,No,No,No,Remote Work
+109,Warehouse Management Tech,,No,No,No,Warehouse Management Tech
+110,Kubernetes,,No,No,No,Kubernetes
+111,W08,W08,No,No,No,
+112,Privacy,,No,No,No,Privacy
+113,eLearning,,No,No,No,eLearning
+114,Airplanes,,No,No,No,Airplanes
+115,W11,W11,No,No,No,
+116,Robotic Process Automation,,No,No,No,Robotic Process Automation
+117,Travel,,No,No,No,Travel
+118,AIOps,,No,No,No,AIOps
+119,W07,W07,No,No,No,
+120,Messaging,,No,No,No,Messaging
+121,Crowdfunding,,No,No,No,Crowdfunding
+122,Satellites,,No,No,No,Satellites
+123,Digital Freight Brokerage,,No,No,No,Digital Freight Brokerage
+124,LegalTech,,No,No,No,LegalTech
+125,Sports Tech,,No,No,No,Sports Tech
+126,Generative AI,,No,No,No,Generative AI
+127,Collaboration,,No,No,No,Collaboration
+128,S10,S10,No,No,No,
+129,Diagnostics,,No,No,No,Diagnostics
+130,AI-Enhanced Learning,,No,No,No,AI-Enhanced Learning
+131,Legal Tech,,No,No,No,Legal Tech
+132,DAO,,No,No,No,DAO
+133,Drug discovery,,No,No,No,Drug discovery
+134,Oncology,,No,No,No,Oncology
+135,Augmented Reality,,No,No,No,Augmented Reality
+136,W09,W09,No,No,No,
+137,Media,,No,No,No,Media
+138,Synthetic Biology,,No,No,No,Synthetic Biology
+139,Gene Therapy,,No,No,No,Gene Therapy
+140,GovTech,,No,No,No,GovTech
+141,Manufacturing,,No,No,No,Manufacturing
+142,Payroll,,No,No,No,Payroll
+143,Space Exploration,,No,No,No,Space Exploration
+144,Cashierless Checkout,,No,No,No,Cashierless Checkout
+145,Next-gen Network Security,,No,No,No,Next-gen Network Security
+146,Genomics,,No,No,No,Genomics
+147,Social Network,,No,No,No,Social Network
+148,IK12,,No,No,No,IK12
+149,Agriculture,,No,No,No,Agriculture
+150,Customer Success,,No,No,No,Customer Success
+151,Housing,,No,No,No,Housing
+152,Social Media,,No,No,No,Social Media
+153,Assistive Tech,,No,No,No,Assistive Tech
+154,Sustainable Fashion,,No,No,No,Sustainable Fashion
+155,S05,S05,No,No,No,
+156,Femtech,,No,No,No,Femtech
+157,Regtech,,No,No,No,Regtech
+158,Air Taxis,,No,No,No,Air Taxis
+159,Commercial Space Launch,,No,No,No,Commercial Space Launch
+160,Hydrogen Energy,,No,No,No,Hydrogen Energy
+161,Conversational Banking,,No,No,No,Conversational Banking
+162,Bioplastic,,No,No,No,Bioplastic
+163,Fitness,,No,No,No,Fitness
+164,Fertility Tech,,No,No,No,Fertility Tech
+165,Renewable Energy,,No,No,No,Renewable Energy
+166,Cloud Gaming,,No,No,No,Cloud Gaming
+167,Cannabis,,No,No,No,Cannabis
+168,Geographic Information System,,No,No,No,Geographic Information System
+169,S06,S06,No,No,No,
+170,Legal,,No,No,No,Legal
+171,S07,S07,No,No,No,
+172,Ghost Kitchens,,No,No,No,Ghost Kitchens
+173,COVID-19,,No,No,No,COVID-19
+174,Clean Meat,,No,No,No,Clean Meat
+175,Cultured Meat,,No,No,No,Cultured Meat
+176,Auto Commerce,,No,No,No,Auto Commerce
+177,Deepfake Detection,,No,No,No,Deepfake Detection
+178,W23,W23,No,No,No,
+179,Nanotechnology,,No,No,No,Nanotechnology
+180,Autonomous Trucking,,No,No,No,Autonomous Trucking
+181,AI-powered Drug Discovery,,No,No,No,AI-powered Drug Discovery
+182,Speech Recognition,,No,No,No,Speech Recognition
+183,Quantum Computing,,No,No,No,Quantum Computing
+184,Autonomous Delivery,,No,No,No,Autonomous Delivery
+185,Autonomous Shipping,,No,No,No,Autonomous Shipping
+186,3D Printing,,No,No,No,3D Printing
+187,W10,W10,No,No,No,
+188,Smart Clothing,,No,No,No,Smart Clothing
+189,Smart Locks,,No,No,No,Smart Locks
+190,Primary Care,,No,No,No,Primary Care
+191,Food Service Robots & Machines,,No,No,No,Food Service Robots & Machines
+192,Small Modular Reactors,,No,No,No,Small Modular Reactors
+193,Cellular Agriculture,,No,No,No,Cellular Agriculture
+194,Beauty,,No,No,No,Beauty
+195,Indoor Mapping,,No,No,No,Indoor Mapping
+196,S08,S08,No,No,No,
+197,Unmanned Vehicle,,No,No,No,Unmanned Vehicle
+198,Cryogenics,,No,No,No,Cryogenics
+199,Civic Tech,,No,No,No,Civic Tech
+200,Drones,,No,No,No,Drones
+201,Fusion Energy,,No,No,No,Fusion Energy
+202,Neurotechnology,,No,No,No,Neurotechnology

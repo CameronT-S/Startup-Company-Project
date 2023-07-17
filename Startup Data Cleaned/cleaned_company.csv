@@ -1,0 +1,1001 @@
+id,company_name,founded,team_size,no_founders,no_company_socials,no_tags,Remote,country_cleaned,city
+1,Airbnb,2008,5000,3,4,4,No,USA,San Francisco
+2,Amplitude,2012,500,2,1,3,No,USA,San Francisco
+3,DoorDash,,1600,3,4,2,No,USA,San Francisco
+4,Coinbase,2012,500,1,3,2,No,USA,San Francisco
+5,Dropbox,2008,4000,2,4,2,No,USA,San Francisco
+6,Embark Trucks,2016,100,2,2,3,No,USA,San Francisco
+7,Ginkgo Bioworks,2009,500,5,3,4,Yes,USA,Boston
+8,Lucira Health,,43,1,2,2,No,USA,Emeryville
+9,MatterPort,,201,2,1,3,No,USA,Sunnyvale
+10,Momentus,2017,125,0,4,5,No,USA,Santa Clara
+11,PagerDuty,,775,2,1,2,No,USA,San Francisco
+12,Pardes Biosciences,2020,2,0,1,4,No,USA,San Francisco
+13,Rigetti Computing,,51,1,1,3,No,USA,Berkeley
+14,Weave,2011,600,3,1,3,No,USA,Lehi
+15,GitLab,2012,1200,2,4,4,No,USA,San Francisco
+16,Stripe,,2600,2,2,5,Yes,USA,San Francisco
+17,Instacart,2012,1500,3,4,5,Yes,USA,San Francisco
+18,Cruise,2013,1800,2,4,5,Yes,USA,San Francisco
+19,OpenSea,2017,110,2,4,5,No,USA,New York
+20,Faire,,260,3,2,2,No,USA,San Francisco
+21,Brex,,800,2,4,2,No,USA,San Francisco
+22,Deel,2018,600,2,4,3,No,USA,San Francisco
+23,Rippling,2016,1000,2,3,2,Yes,USA,San Francisco
+24,Reddit,,201,1,3,2,No,USA,San Francisco
+25,Gusto,2011,2000,3,4,5,Yes,USA,San Francisco
+26,Flexport,2013,2800,1,3,5,Yes,USA,San Francisco
+27,Razorpay,2015,700,2,4,5,Yes,India,Bengaluru
+28,Scale AI,,440,1,4,2,Yes,USA,San Francisco
+29,Benchling,2012,700,1,3,5,Yes,USA,San Francisco
+30,Fivetran,2012,950,2,3,2,Yes,USA,Oakland
+31,Rappi,,2000,3,3,2,No,Colombia,Bogotá
+32,Checkr,2014,580,2,3,2,Yes,USA,San Francisco
+33,Zapier,2011,400,3,4,4,No,USA,Mountain View
+34,Meesho,2015,1000,2,3,3,No,India,Bengaluru
+35,Monzo Bank,2015,2100,1,2,1,Yes,United Kingdom,London
+36,Relativity Space,2016,200,1,4,2,No,USA,Los Angeles
+37,Whatnot,2019,110,2,1,4,No,USA,Los Angeles
+38,Webflow,2012,400,3,4,3,Yes,USA,San Francisco
+39,MessageBird,2011,500,3,1,2,No,Netherlands,Amsterdam
+40,Flock Safety,2017,400,2,4,5,Yes,USA,Atlanta
+41,Convoy,2015,1200,2,4,1,Yes,USA,Seattle
+42,EquipmentShare,2014,1900,5,4,2,Yes,USA,Columbia
+43,GOAT Group,2015,650,2,4,3,Yes,USA,Los Angeles
+44,Retool,,40,1,1,2,No,USA,San Francisco
+45,GrubMarket,,200,1,3,2,No,USA,San Francisco
+46,Segment,2011,550,2,3,4,Yes,USA,San Francisco
+47,Ironclad,2014,400,2,4,4,Yes,USA,San Francisco
+48,Flutterwave,2015,400,2,3,3,Yes,Nigeria,Lagos
+49,Podium,2014,830,2,4,5,Yes,USA,Lehi
+50,Xendit,2015,250,3,4,4,Yes,Indonesia,Jakarta
+51,Groww,,50,4,3,2,No,India,Bengaluru
+52,Outschool,2015,140,2,4,4,No,USA,San Francisco
+53,Lattice,2015,540,1,3,2,Yes,USA,San Francisco
+54,Helion Energy,2013,54,2,4,4,No,USA,Everett
+55,GoCardless,2011,400,2,2,3,Yes,United Kingdom,London
+56,Algolia,2012,350,2,4,5,Yes,USA,San Francisco
+57,Newfront,2017,750,2,1,4,Yes,USA,San Francisco
+58,Solugen,,150,2,3,3,No,USA,Houston
+59,Go1,2015,200,4,4,2,Yes,USA,San Francisco
+60,Docker,,201,1,1,2,No,USA,San Francisco
+61,Jeeves,2019,,1,0,2,No,USA,Miami
+62,Modern Treasury,2018,160,3,3,4,Yes,USA,San Francisco
+63,Vetcove,2015,52,2,4,5,No,USA,Miami
+64,ShipBob,2014,150,2,1,2,Yes,USA,Chicago
+65,Opentrons,,80,2,2,2,No,USA,New York
+66,Sift,2011,405,1,1,6,Yes,USA,San Francisco
+67,Wave,2015,800,2,3,2,No,Senegal,Dakar
+68,Front,2013,200,2,3,3,No,USA,San Francisco
+69,Vanta,2017,275,1,3,5,Yes,USA,San Francisco
+70,Truepill,2017,700,2,2,3,No,USA,San Mateo
+71,Pave,2019,150,1,4,4,Yes,USA,San Francisco
+72,Prometheus,2018,25,1,4,4,Yes,USA,Santa Cruz
+73,Mux,,65,4,2,2,Yes,USA,San Francisco
+74,Jasper,2021,130,3,3,7,Yes,USA,Austin
+75,Athelas,2016,160,2,2,6,Yes,USA,Mountain View
+76,Snapdocs,2014,520,1,4,5,Yes,USA,San Francisco
+77,EasyPost,,51,1,1,2,No,USA,San Francisco
+78,Apollo,2012,200,3,3,4,No,USA,San Francisco
+79,Mashgin,,45,2,4,7,Yes,USA,Palo Alto
+80,NimbleRx,,51,1,1,2,No,USA,Menlo Park
+81,Veriff,2015,350,2,4,4,Yes,Estonia,Tallinn
+82,Airbyte,2020,15,2,3,3,Yes,USA,San Francisco
+83,Papa,2017,350,2,4,4,Yes,USA,Miami
+84,Salt Security,2016,170,1,1,2,No,USA,Palo Alto
+85,Astranis,,100,2,2,2,No,USA,San Francisco
+86,Clipboard Health,,500,1,1,2,Yes,,San Francisco
+87,CoinTracker,2017,55,2,4,6,No,USA,San Francisco
+88,Truebill,2015,110,3,4,3,Yes,USA,San Francisco
+89,CaptivateIQ,2017,120,3,3,3,Yes,USA,San Francisco
+90,ClassDojo,2011,65,2,4,4,Yes,USA,San Francisco
+91,Gem,2017,254,2,4,5,No,USA,San Francisco
+92,Zip,2020,90,2,0,2,Yes,USA,San Francisco
+93,Modern Health,,140,1,3,2,Yes,USA,San Francisco
+94,Teleport,2015,160,3,4,5,Yes,USA,Oakland
+95,Boom,,161,1,2,2,No,USA,Englewood
+96,Titan,2018,30,3,4,4,Yes,USA,New York
+97,SmartAsset,,300,2,1,2,No,USA,New York
+98,People.ai,2016,300,1,4,5,Yes,USA,San Francisco
+99,Sendbird,2013,330,3,4,5,Yes,USA,San Mateo
+100,Mixpanel,,310,0,2,3,No,USA,San Francisco
+101,Vendr.com,,110,1,1,2,Yes,USA,Boston
+102,Human Interest,2015,648,0,4,7,No,USA,San Francisco
+103,Function of Beauty,2015,300,3,4,4,Yes,USA,New York
+104,Ajaib,2019,300,2,3,2,No,Indonesia,Jakarta
+105,Standard Cognition,2017,2,4,2,2,Yes,USA,San Francisco
+106,BillionToOne,,200,2,2,2,Yes,USA,Menlo Park
+107,Twitch,2006,501,1,3,4,No,USA,San Francisco
+108,Heap,2013,188,2,4,4,Yes,USA,San Francisco
+109,Frubana Inc,2018,150,1,2,3,Yes,Brazil,São Paulo
+110,Apollo.io,2015,40,3,2,2,No,USA,San Francisco
+111,PlanGrid,,355,3,1,2,No,USA,San Francisco
+112,Zepto,2020,500,2,1,4,Yes,India,Mumbai
+113,Nowports,2018,350,2,4,5,Yes,,Monterrey
+114,Fountain,2015,200,1,2,5,No,USA,San Francisco
+115,Replit,2016,75,2,4,2,Yes,USA,San Francisco
+116,AtoB,2019,110,2,4,5,Yes,USA,San Francisco
+117,Observe.AI,2017,220,3,3,4,Yes,USA,San Francisco
+118,Middesk,2019,85,2,3,2,Yes,USA,San Francisco
+119,Squire Technologies,2015,150,2,2,2,Yes,USA,New York
+120,H1,,80,2,1,2,No,USA,New York
+121,Kalshi,2019,30,2,4,2,Yes,USA,New York
+122,Bellabeat,2014,70,2,3,3,Yes,USA,San Francisco
+123,Tempo,,158,2,3,4,No,USA,San Francisco
+124,Gather,2020,75,2,2,2,No,USA,San Francisco
+125,Supabase,2020,45,2,2,3,Yes,,Singapore
+126,Panorama Education,2012,450,2,4,4,Yes,USA,Boston
+127,Rescale,,200,2,2,2,No,USA,San Francisco
+128,Goldbelly,2013,150,4,4,4,Yes,USA,New York
+129,Shipper,2017,400,2,3,4,Yes,Indonesia,Jakarta
+130,99minutos,2014,5,1,3,3,Yes,Mexico,Mexico City
+131,Substack,2017,79,3,2,3,Yes,USA,San Francisco
+132,Postscript,2018,77,3,2,4,No,USA,Phoenix
+133,Khatabook,2018,97,3,3,3,No,India,Bengaluru
+134,Mutiny,,60,2,3,3,No,USA,San Francisco
+135,CareRev,2015,400,2,4,4,No,,Los Angeles
+136,TRM Labs,2018,100,2,3,6,No,USA,San Francisco
+137,Shogun,2015,168,2,3,5,No,USA,Palo Alto
+138,Instawork,2016,300,1,3,2,No,USA,San Francisco
+139,FAZZ,2017,500,3,2,5,Yes,Indonesia,Jakarta
+140,Vouch,2018,160,1,2,3,Yes,USA,San Francisco
+141,Lever,2012,225,1,3,4,Yes,USA,San Francisco
+142,The Athletic,2016,600,2,3,3,Yes,USA,San Francisco
+143,Jerry,2017,300,3,4,5,Yes,USA,Palo Alto
+144,Codecademy,2011,225,1,3,3,Yes,USA,New York
+145,Alpaca,,123,2,4,3,No,USA,San Mateo
+146,Promise,2017,40,2,2,4,No,USA,Oakland
+147,Gecko Robotics,2016,120,2,3,5,Yes,USA,Austin
+148,SingleStore,,150,1,3,2,No,USA,San Francisco
+149,Shef,2019,100,2,4,4,No,USA,San Francisco
+150,Spenmo,2019,200,2,1,4,Yes,Singapore,Singapore
+151,Clear,2011,900,3,3,2,Yes,India,Bengaluru
+152,Moxion Power Co.,2020,58,2,2,7,Yes,USA,Richmond
+153,May Mobility,2017,200,1,4,4,Yes,USA,Ann Arbor
+154,Bitrise,2014,114,3,4,2,Yes,Hungary,Budapest
+155,Let's Do This,2017,100,2,3,4,No,USA,London
+156,Hightouch,2019,43,3,1,2,Yes,USA,San Francisco
+157,Sendwave,2014,350,2,3,2,No,USA,Boston
+158,Ridecell,2009,170,1,4,4,Yes,USA,San Francisco
+159,Superside,2015,500,1,4,4,No,Norway,Oslo
+160,Clever,2012,140,3,4,4,Yes,USA,San Francisco
+161,Scribd,,300,2,1,2,No,USA,San Francisco
+162,Atomwise,,50,2,2,2,No,USA,San Francisco
+163,Odeko,2019,371,2,4,6,Yes,USA,New York
+164,PicnicHealth,2014,100,2,1,7,Yes,USA,San Francisco
+165,OpenPhone,2018,90,2,4,2,No,USA,San Francisco
+166,FightCamp,2014,64,3,4,5,Yes,USA,Newport Beach
+167,Routable,2017,160,2,4,4,No,USA,San Francisco
+168,Snackpass,2017,38,2,2,4,Yes,USA,San Francisco
+169,Stacks,2013,40,2,2,4,Yes,USA,New York
+170,Kovi,2018,890,2,3,2,Yes,Brazil,São Paulo
+171,Nobell Foods,2016,50,1,2,4,No,USA,San Francisco
+172,InfluxData,2012,210,2,4,2,No,USA,San Francisco
+173,Lob,,200,2,4,2,Yes,USA,San Francisco
+174,Career Karma,2018,3,3,4,2,Yes,USA,San Francisco
+175,Instabug,,190,2,4,5,No,Egypt,San Francisco
+176,VergeSense,2017,70,2,3,2,Yes,USA,San Francisco
+177,Permutive,,205,2,3,2,No,United Kingdom,London
+178,Eight Sleep,2014,50,3,3,2,Yes,USA,New York
+179,Mezmo,,145,2,2,7,No,USA,Mountain View
+180,"Lively, Inc.",2016,130,2,3,3,Yes,USA,San Francisco
+181,Pachama,2018,70,2,3,5,No,USA,San Francisco
+182,HackerRank,,300,2,3,2,No,USA,Mountain View
+183,SRTX,2017,150,1,4,6,No,Canada,Montreal
+184,Balance,2020,10,2,0,2,No,USA,San Francisco
+185,Ledger Investing,2016,30,3,3,5,Yes,United States,
+186,Caper,,15,3,1,2,No,,
+187,Joy,2015,37,3,4,3,No,USA,San Francisco
+188,Delphia,2018,39,1,4,4,No,Canada,Toronto
+189,Duffel,2017,55,2,3,4,No,United Kingdom,London
+190,Plate IQ,,80,2,3,2,Yes,USA,Emeryville
+191,Torch,2017,160,2,4,5,Yes,USA,San Francisco
+192,Mattermost,,190,1,4,2,No,USA,Palo Alto
+193,Presto,2008,200,1,1,2,Yes,USA,San Carlos
+194,Drip Capital,2015,280,1,3,3,Yes,India,Mumbai
+195,Iron Ox,2015,80,2,4,4,No,USA,San Carlos
+196,RevenueCat,2017,50,2,4,4,No,USA,San Francisco
+197,Machine Zone,2008,501,3,4,2,Yes,USA,Palo Alto
+198,Super,2018,700,2,3,5,No,Indonesia,Surabaya
+199,Proxy,2016,50,2,3,4,Yes,USA,San Francisco
+200,Nova Credit,2016,100,2,4,3,Yes,USA,San Francisco
+201,Platzi,2014,310,2,4,7,No,Peru,San Francisco
+202,Karat Financial,2019,40,2,1,4,No,USA,San Francisco
+203,Dover,2019,50,3,4,3,Yes,USA,San Francisco
+204,Burrow,2016,30,2,4,4,Yes,USA,New York
+205,Asher Bio,,3,2,0,2,No,USA,San Carlos
+206,OkCredit,,6,3,2,2,No,India,Bengaluru
+207,UpKeep,2016,150,1,4,5,Yes,USA,Los Angeles
+208,Optimizely,,201,2,1,2,No,USA,San Francisco
+209,Fondeadora,2018,160,2,4,3,Yes,Mexico,Mexico City
+210,Ophelia,2019,94,2,3,5,Yes,USA,New York
+211,WePay,2008,400,2,1,3,No,USA,Redwood City
+212,TrueNorth,2019,50,2,2,5,Yes,USA,San Francisco
+213,Ribbon Health,2016,50,2,3,4,No,USA,New York
+214,Point,2019,37,3,2,3,Yes,USA,San Francisco
+215,Deepgram,2015,85,1,4,2,No,USA,San Francisco
+216,Culture Biosciences,,40,2,3,2,Yes,USA,South San Francisco
+217,Tovala,2015,200,2,3,2,Yes,USA,Chicago
+218,Weebly,,201,3,1,2,No,USA,San Francisco
+219,Sqreen,2015,65,2,4,5,Yes,USA,San Francisco
+220,CoreOS,,150,1,1,2,No,USA,San Francisco
+221,Bloom Institute of Technology,2017,150,1,2,4,No,USA,San Francisco
+222,Convictional,2017,55,2,3,6,No,Canada,Toronto
+223,QuickNode,2017,89,4,4,6,No,USA,Miami
+224,STARK BANK,2018,45,1,3,5,No,Brazil,São Paulo
+225,Breadfast,2017,1125,3,4,2,Yes,Egypt,Cairo
+226,Heroku,2007,300,3,1,2,Yes,USA,San Francisco
+227,Bear Flag Robotics,,10,2,3,2,Yes,USA,Newark
+228,"Spruce Systems, Inc.",2020,18,2,3,5,No,USA,New York
+229,Nuvocargo,2019,150,1,2,4,Yes,Mexico,Mexico City
+230,Pulley,2020,42,1,2,2,Yes,USA,San Francisco
+231,Cambly,,150,2,1,3,No,USA,San Francisco
+232,Verge Genomics,,32,1,3,2,Yes,USA,San Francisco
+233,Quit Genius,2017,130,3,4,3,Yes,USA,New York
+234,Qventus,2012,75,3,3,4,Yes,USA,Mountain View
+235,Reliance Health,2016,230,3,4,3,Yes,Nigeria,Lagos
+236,Guesty,,220,2,2,2,No,Israel,Tel Aviv-Yafo
+237,Endpoint Health,2018,23,3,3,2,Yes,USA,Palo Alto
+238,Convex,2017,110,2,1,3,Yes,USA,San Francisco
+239,Avo,,10,3,0,2,No,Israel,Tel Aviv-Yafo
+240,HelloSign,,100,2,2,2,No,USA,San Francisco
+241,Aspire,2018,150,2,2,3,Yes,Singapore,Singapore
+242,Embrace,2016,75,2,4,4,Yes,USA,Los Angeles
+243,Armory,,69,3,2,2,No,USA,San Mateo
+244,LAIKA,2018,80,3,3,3,Yes,Colombia,Bogotá
+245,Nash,2021,31,2,2,5,No,USA,San Francisco
+246,Daily,2016,18,1,2,3,No,USA,San Francisco
+247,Draft,2018,65,3,2,3,No,Canada,Toronto
+248,Submittable,2010,165,0,4,4,Yes,USA,Missoula
+249,WorkRamp,2015,176,2,4,3,No,USA,San Francisco
+250,Curebase,,3,1,2,3,No,USA,San Francisco
+251,Ambient.ai,2017,75,2,3,5,Yes,USA,Palo Alto
+252,Pachyderm,2014,60,2,3,4,Yes,USA,San Francisco
+253,Redcliffe Lifetech,2018,2500,3,3,7,No,India,Gurugram
+254,GiveCampus,2014,75,2,4,6,No,USA,San Francisco
+255,BukuWarung,2019,20,2,3,4,No,Indonesia,Jakarta
+256,Unbabel,2013,175,4,4,2,Yes,USA,San Francisco
+257,Netomi,2015,104,1,2,4,Yes,USA,San Mateo
+258,Memora Health,2017,90,3,4,5,Yes,USA,San Francisco
+259,Dagger,2018,8,3,0,4,No,Portugal,San Francisco
+260,Gordian Software,2017,31,2,2,3,Yes,USA,Bellevue
+261,Axoni,2013,80,2,3,5,Yes,USA,New York
+262,Feather,2017,90,1,4,4,Yes,USA,New York
+263,Compound,,51,2,1,2,Yes,USA,San Francisco
+264,Ansa Biotechnologies,,5,2,1,2,Yes,USA,Emeryville
+265,Cashfree Payments,,200,2,4,2,Yes,India,Bengaluru
+266,Bitmovin,,145,3,3,2,Yes,USA,San Francisco
+267,Eden Workplace,2015,55,3,4,4,Yes,USA,San Francisco
+268,Fintual,2018,150,4,4,3,Yes,Chile,Santiago
+269,OpenInvest,2015,24,2,4,4,Yes,USA,San Francisco
+270,Modern Fertility,2017,25,2,4,4,No,USA,San Francisco
+271,Cognito,2013,12,3,4,5,No,USA,Palo Alto
+272,AssemblyAI,2017,65,1,2,5,No,USA,San Francisco
+273,Fly.io,,22,4,2,2,No,USA,Chicago
+274,SafetyWing,2018,20,3,3,5,No,USA,San Francisco
+275,Apto Payments,2014,32,2,1,3,Yes,USA,San Francisco
+276,Ramen VR,2019,21,2,1,5,Yes,USA,San Francisco
+277,Rutter,2021,24,2,0,2,Yes,USA,San Francisco
+278,Osmind,2020,70,2,4,5,Yes,USA,San Francisco
+279,Eclipse Foods,2019,,2,3,4,Yes,USA,Oakland
+280,Houm,2018,90,2,2,4,Yes,Chile,Santiago
+281,Paystack,,115,2,4,3,Yes,Nigeria,Lagos
+282,64x Bio,2017,11,1,3,4,Yes,USA,San Francisco
+283,Slash,2020,20,2,2,5,Yes,USA,San Francisco
+284,Validere,2015,110,2,3,5,Yes,Canada,Toronto
+285,DrChrono,2009,150,2,4,5,No,USA,
+286,"STOKE Space Technologies, Inc",2019,49,2,1,2,No,USA,Seattle
+287,Mighty Buildings,2017,160,2,4,5,Yes,USA,Oakland
+288,Culdesac,,32,2,1,2,Yes,USA,Tempe
+289,Localyze,2018,84,3,4,4,No,Netherlands,San Francisco
+290,Treinta,2020,250,2,2,4,No,Colombia,Bogotá
+291,MarqVision,2020,60,2,1,6,Yes,USA,Los Angeles
+292,Omgpop,,11,0,1,2,No,USA,New York
+293,Remora,2020,20,3,2,4,Yes,USA,Detroit
+294,Ashby,2018,55,2,2,5,No,USA,San Francisco
+295,54Gene,,47,2,3,2,No,Nigeria,Lagos
+296,Kobo360,,223,2,3,2,No,Nigeria,Oworonshoki
+297,Curri,2018,73,2,3,7,Yes,USA,Ventura
+298,Soomgo,,80,1,1,3,No,South Korea,Seoul
+299,Shelf Engine,2016,125,2,4,3,Yes,USA,Seattle
+300,Yassir,,200,2,0,2,No,Algeria,Algeria
+301,Yummy,2020,550,1,2,5,Yes,Venezuela,Caracas
+302,Doppler,2018,25,2,4,5,Yes,USA,San Francisco
+303,Wefunder,2011,63,2,4,4,No,USA,San Francisco
+304,GitPrime,2014,110,2,2,5,Yes,USA,Durango
+305,ZeroDown,,13,3,3,2,No,USA,San Francisco
+306,Snappr,2017,200,1,4,3,Yes,USA,San Francisco
+307,Meru Health,2016,45,3,4,5,Yes,USA,San Mateo
+308,Notable Labs,2014,40,0,2,2,Yes,USA,Foster City
+309,REGENT,2020,2,2,3,5,No,USA,Boston
+310,Science Exchange,2011,50,2,4,6,No,USA,Palo Alto
+311,Belvo,2019,150,2,3,4,Yes,Brazil,São Paulo
+312,BeGo,2019,65,2,1,5,Yes,USA,San Francisco
+313,Moonshot Brands,2020,35,2,1,3,No,USA,Toronto
+314,Landed,2015,40,2,4,4,Yes,USA,San Francisco
+315,PayMongo,2019,220,2,4,3,Yes,Philippines,Taguig
+316,Volley,2016,60,2,1,7,Yes,USA,San Francisco
+317,Roboflow,2019,25,2,2,5,No,USA,Des Moines
+318,treble.ai,2019,38,3,3,2,No,Brazil,Seattle
+319,PostHog,2020,29,2,4,4,No,USA,San Francisco
+320,FutureAdvisor,2010,51,2,1,3,No,USA,San Francisco
+321,Legacy,2018,45,2,4,5,No,USA,Cambridge
+322,Rainbow,2019,11,3,1,4,Yes,USA,New York
+323,clicOH,2019,160,3,3,5,Yes,Argentina,Mexico City
+324,Reach Labs,,16,1,1,2,No,USA,Emeryville
+325,Depict,2019,23,2,1,2,Yes,Sweden,Stockholm
+326,Nomba,2017,150,2,3,3,Yes,Nigeria,Lagos
+327,FamPay,2019,24,2,4,4,Yes,India,Bengaluru
+328,SFOX,2014,40,2,2,4,No,USA,Los Angeles
+329,Recurrency,2019,34,1,3,4,No,USA,Los Angeles
+330,Karbon Card,2019,22,5,4,4,Yes,India,Bengaluru
+331,Focal Systems,2016,50,2,1,5,Yes,USA,Burlingame
+332,Mio,2015,12,2,2,4,Yes,USA,Austin
+333,Petcube,2012,51,3,4,3,Yes,USA,San Francisco
+334,Mason,2015,100,1,4,5,Yes,USA,Seattle
+335,MagicBus,,18,2,1,2,No,USA,Los Angeles
+336,iSono Health,2016,9,2,3,5,Yes,USA,San Francisco
+337,GetAccept,2016,200,4,4,6,Yes,USA,San Francisco
+338,AlphaFlow,2015,26,1,4,4,Yes,USA,San Francisco
+339,Chatfuel,,53,3,3,2,No,USA,San Francisco
+340,Yardbook,,1,1,1,2,No,USA,San Mateo
+341,VINEBOX,,11,2,2,2,No,USA,San Francisco
+342,Stilt (dba Onbo),2015,35,2,4,5,Yes,USA,San Francisco
+343,Stealth Worker,2015,5,1,1,4,No,USA,Menlo Park
+344,SOUNDBOKS,,50,3,4,2,Yes,Denmark,Copenhagen
+345,Tenant Turner,2013,15,3,3,5,Yes,USA,Richmond
+346,Flirtey,,11,1,2,2,No,USA,Reno
+347,Cofactor Genomics,2015,13,3,3,5,Yes,USA,St. Louis
+348,Click & Grow,,28,1,3,2,No,USA,Palo Alto
+349,StyleBee,,11,1,1,2,No,USA,San Francisco
+350,TetraScience,,100,2,3,4,No,USA,Boston
+351,Fetch,,12,2,2,2,Yes,USA,Atlanta
+352,The Ticket Fairy,2011,15,2,4,5,No,USA,Los Angeles
+353,HER,2013,10,1,3,3,No,USA,San Francisco
+354,Font Awesome,2014,17,2,2,4,No,USA,Bentonville
+355,"80,000 Hours",2011,13,3,4,2,Yes,United Kingdom,London
+356,Shred Video,,2,2,3,2,No,USA,San Francisco
+357,Shape (ShapeScale),2015,6,2,4,5,Yes,USA,San Francisco
+358,Scentbird,2013,165,3,2,2,No,USA,New York
+359,RedCarpetUp,,100,2,3,2,No,India,Gurugram
+360,PickTrace,2015,40,2,3,3,Yes,USA,Los Angeles
+361,Oolu,2015,230,1,4,4,Yes,Senegal,Dakar
+362,MicroHealth,2011,9,2,1,4,No,USA,New York
+363,Zeplin,2015,110,4,3,5,Yes,USA,San Francisco
+364,Markhor,,2,2,1,2,No,USA,San Francisco
+365,Circle Medical,2015,85,2,3,4,Yes,USA,San Francisco
+366,Chaldal,,373,3,1,2,No,Bangladesh,Dhaka
+367,Clerky,2011,15,2,4,6,No,USA,Burlingame
+368,Bodyport,2015,15,2,3,5,Yes,USA,San Francisco
+369,Thrive Agritech,,6,1,3,2,No,USA,New York
+370,Tesorio,2013,37,2,4,5,Yes,USA,Burlingame
+371,AgileMD,2011,15,1,3,4,Yes,USA,San Francisco
+372,SunFarmer,,15,1,3,4,No,Nepal,Kathmandu
+373,Foxpass,2015,10,1,4,3,Yes,USA,San Francisco
+374,Confident Cannabis,2015,23,2,2,5,No,USA,Palo Alto
+375,Branch8,,15,4,1,2,No,Hong Kong,Hong Kong
+376,Heroic Labs,2014,16,3,3,5,Yes,United Kingdom,London
+377,SnapEDA,,30,1,3,5,No,USA,San Francisco
+378,Scope AR,2011,50,2,4,4,Yes,USA,San Francisco
+379,PartnerStack,2015,100,4,4,5,Yes,Canada,Toronto
+380,Assembly,,35,1,2,2,No,USA,Redwood City
+381,Gemnote,,40,1,2,2,Yes,USA,San Leandro
+382,New Story,2014,35,3,4,5,Yes,USA,Atlanta
+383,Jopwell,2015,50,2,2,4,Yes,USA,New York
+384,InnerSpace,,1,3,1,2,No,USA,San Francisco
+385,teaBOT,2013,2,1,3,5,Yes,Canada,Toronto
+386,Lugg,2014,20,2,4,2,No,USA,San Francisco
+387,Triplebyte,,70,2,2,3,Yes,USA,San Francisco
+388,Posthaven,,2,2,1,2,No,USA,San Francisco
+389,Shasqi,2015,10,1,3,4,Yes,USA,San Francisco
+390,Spire Health,2013,52,2,2,5,Yes,USA,San Francisco
+391,Quartzy,,51,2,4,5,Yes,USA,Hayward
+392,Replika,,28,1,4,2,Yes,USA,San Francisco
+393,Tara AI,2016,26,2,4,4,No,USA,San Jose
+394,Flip,2014,,1,2,3,Yes,USA,Los Angeles
+395,X-Zell,2014,19,2,3,3,Yes,Singapore,Singapore
+396,Wink Health,,2,1,1,2,No,USA,San Francisco
+397,Transcriptic,,13,0,3,2,No,USA,Menlo Park
+398,Zenflow,2014,18,2,4,3,No,USA,South San Francisco
+399,Tab,2015,11,1,3,5,Yes,United Kingdom,London
+400,Priime,2014,3,4,3,2,No,USA,San Francisco
+401,Pigeonly,2012,40,2,1,3,Yes,USA,Las Vegas
+402,Dabble,2015,3,3,2,5,No,Canada,Toronto
+403,Streak,2012,35,1,3,3,Yes,,San Francisco
+404,Meadow,2014,14,4,4,4,Yes,USA,San Francisco
+405,Level Frames,2014,5,2,4,3,Yes,USA,
+406,Industrial Microbes,2014,12,3,3,4,Yes,USA,Alameda
+407,Giveffect,2014,,2,4,5,Yes,USA,New York
+408,eBrandvalue,,10,2,4,2,No,USA,Mountain View
+409,Quantierra,,5,1,2,2,No,USA,New York
+410,Dealyze,,6,2,2,2,No,USA,San Francisco
+411,Cleanly,,14,1,3,2,No,USA,New York
+412,Resolve,2014,7,2,3,4,No,USA,New York
+413,Underground Cellar,2014,26,2,4,4,Yes,USA,San Francisco
+414,Mobydish,,10,1,1,2,No,USA,San Francisco
+415,Makrwatch,2017,19,2,2,5,No,USA,New York
+416,TeamNote,2014,11,3,3,3,Yes,Hong Kong,Hong Kong
+417,Smarking,2014,17,2,4,4,No,USA,San Francisco
+418,SIRUM,,15,3,3,4,Yes,USA,Palo Alto
+419,Sails Co.,,4,1,4,2,Yes,USA,Austin
+420,Shift Labs,2012,6,1,4,4,Yes,USA,Seattle
+421,ReadMe,,42,1,3,4,Yes,USA,San Francisco
+422,BuildScience,2015,1,1,1,2,No,USA,Niagara Falls
+423,Paperspace,2015,37,2,4,4,Yes,USA,
+424,Pakible,,3,1,1,2,No,USA,San Francisco
+425,Labdoor,2012,11,3,4,4,Yes,USA,San Francisco
+426,Kickpay,2015,2,2,4,3,No,USA,San Francisco
+427,Kickback,,20,2,0,2,No,USA,San Francisco
+428,GiveMeTap,2011,1,1,2,2,No,United Kingdom,London
+429,Bankjoy,2015,60,1,3,5,No,USA,Troy
+430,DroneBase,,120,1,3,2,Yes,USA,Santa Monica
+431,The Human Utility,,2,1,3,2,No,USA,Oakland
+432,Democracy Earth,2015,2,2,2,4,No,Spain,Madrid
+433,OneSignal,2011,100,2,4,5,Yes,USA,San Mateo
+434,Bright,2014,65,1,2,5,No,Mexico,Mexico City
+435,Magic,2015,350,6,3,2,No,USA,Washington
+436,Akido Labs,2015,300,3,2,2,Yes,USA,Los Angeles
+437,Tech in Asia,2011,70,1,4,3,Yes,Singapore,Singapore
+438,Bayes Impact,,11,1,2,2,Yes,USA,San Francisco
+439,Oklo,2013,25,2,3,4,Yes,USA,Sunnyvale
+440,Women.com,,11,1,1,2,No,USA,San Mateo
+441,Roomstorm,,4,2,2,2,No,USA,Redwood City
+442,Tule,2014,8,1,1,5,No,USA,Davis
+443,Hive,2014,11,2,4,3,No,Canada,Kitchener
+444,Think Gaming,,1,1,1,2,No,USA,New York
+445,Tenjin,2014,30,2,3,2,Yes,USA,San Francisco
+446,SpotAngels,,11,3,2,2,No,USA,San Francisco
+447,UserGems,2015,10,2,2,4,Yes,Austria,Austria
+448,Alchemy,2013,12,2,2,2,Yes,Canada,Waterloo
+449,Naytev,2014,3,2,3,4,No,USA,San Francisco
+450,MTailor,2012,11,1,4,4,No,USA,San Francisco
+451,MetricWire,,3,2,1,2,No,Canada,Kitchener
+452,Protocol Labs,2014,130,1,3,4,No,USA,Palo Alto
+453,Greentoe,2012,4,2,3,2,No,USA,Los Angeles
+454,Hyperpad,2013,4,2,3,5,No,Canada,London
+455,Flytenow,2013,3,2,4,3,No,USA,San Francisco
+456,Flaviar,2012,60,3,4,3,Yes,USA,New York
+457,Billforward,,8,1,1,2,No,USA,San Francisco
+458,Bannerman,2013,3,2,0,3,No,USA,San Francisco
+459,Backpack,,2,2,1,2,No,USA,San Francisco
+460,Aptible,2013,21,1,4,5,No,USA,San Francisco
+461,Immunity Project,,11,2,1,2,No,USA,San Francisco
+462,Dyspatch,,20,1,2,4,Yes,Canada,Victoria
+463,OpenCurriculum,2011,,1,1,4,Yes,USA,Mountain View
+464,MixerBox,,70,1,4,4,No,TW,Palo Alto
+465,GBatteries,2014,25,2,3,5,Yes,Canada,Ottawa
+466,Gobble,,73,1,3,2,No,USA,Palo Alto
+467,Zinc,2014,10,2,0,2,Yes,USA,San Francisco
+468,Zidisha,2009,1,1,3,6,No,USA,Sterling
+469,TrueVault,2013,,1,3,3,No,USA,San Francisco
+470,Style Lend,2013,2,1,1,3,No,USA,New York
+471,Shopagram,,1,1,1,2,No,,
+472,MerryMint,,1,1,1,2,No,USA,San Francisco
+473,SketchDeck,2014,20,2,4,2,No,USA,San Francisco
+474,Medmonk,,2,2,1,2,No,USA,Milpitas
+475,Shoobs,2013,5,1,3,3,Yes,United Kingdom,London
+476,Pushbullet,2013,3,3,2,2,No,USA,San Francisco
+477,Povio,2014,200,1,4,4,Yes,USA,San Francisco
+478,PiinPoint,2013,15,2,1,5,No,Canada,Kitchener
+479,Theorem LP,2013,34,2,1,4,Yes,USA,San Francisco
+480,One Degree,2012,14,2,4,2,Yes,USA,San Francisco
+481,MBX,2012,150,1,2,2,No,USA,San Francisco
+482,Emailio,,5,2,1,2,Yes,,
+483,Taplytics,2011,55,4,4,4,Yes,Canada,Toronto
+484,CodeNow,,2,0,1,2,No,USA,Chicago
+485,CodeCombat,2013,45,1,4,5,No,USA,San Francisco
+486,Noora Health,2014,150,2,4,3,Yes,India,Bengaluru
+487,AptDeco,2014,,2,4,4,No,USA,New York
+488,CareMessage,2012,45,2,4,3,No,USA,San Francisco
+489,Ambition,2014,55,3,4,4,Yes,USA,Chattanooga
+490,AirHelp,,501,2,3,2,No,USA,New York
+491,42,2014,,1,1,5,Yes,USA,San Francisco
+492,True Link,2012,75,2,4,3,Yes,USA,San Francisco
+493,RaiseMe,2012,,1,0,2,No,,
+494,Reebee,,11,2,1,2,No,Canada,Kitchener
+495,RealCrowd,2013,9,2,4,2,Yes,USA,Portland
+496,One Month,2013,1,1,3,4,No,USA,New York
+497,Senic,2013,16,1,1,3,Yes,Germany,Berlin
+498,Le Tote,,201,2,1,2,No,USA,San Francisco
+499,Casetext,2013,50,1,1,4,No,USA,San Francisco
+500,Cratejoy,,51,2,3,2,No,USA,Austin
+501,"Estimote, Inc.",2012,40,2,3,5,Yes,Poland,Kraków
+502,Asseta,2013,7,1,1,4,No,USA,Newport Beach
+503,Per Vices,,11,2,1,2,No,Canada,Toronto
+504,7cups,,11,1,1,2,No,USA,Virginia Beach
+505,Watsi,2011,11,3,2,4,No,USA,San Francisco
+506,Teespring,,201,1,2,2,No,USA,San Francisco
+507,Fond,2012,51,2,4,5,Yes,USA,San Francisco
+508,Wevorce,,11,1,1,2,No,USA,Bothell
+509,CrowdMed,2012,5,1,2,3,No,USA,San Francisco
+510,SimplyInsured,2012,35,1,2,3,No,USA,San Francisco
+511,CircuitHub,2012,45,1,3,5,Yes,United Kingdom,London
+512,Experiment,2012,1,2,3,4,No,USA,Honolulu
+513,RADAR,,12,1,1,2,No,USA,New York
+514,Lollipuff,,11,1,1,2,No,USA,Mountain View
+515,Strikingly,2012,99,3,3,3,Yes,China,Shanghai
+516,Etleap,,11,1,1,2,No,USA,San Francisco
+517,Cheetah,,2,1,1,2,No,USA,San Francisco
+518,Lawdingo,,2,1,1,2,No,USA,New York
+519,Padlet,2012,36,1,4,4,Yes,USA,San Francisco
+520,BuildZoom,2013,100,2,3,4,Yes,USA,San Francisco
+521,Scuba,,51,2,3,2,No,USA,Redwood City
+522,CircuitLab,2012,2,2,4,4,No,USA,Redwood City
+523,9gag,,36,5,2,2,No,Hong Kong,Hong Kong
+524,Svbtle,,2,0,2,2,No,USA,San Francisco
+525,Thread,,92,2,3,2,No,United Kingdom,United Kingdom
+526,Plivo,2011,190,2,4,2,No,USA,Austin
+527,Double Robotics,2012,11,2,1,4,Yes,USA,Burlingame
+528,Vastrm,2012,2,1,1,2,No,USA,Burlingame
+529,Flightfox,2012,4,1,1,3,No,USA,Boulder
+530,BackerKit,2012,39,2,4,4,Yes,USA,San Francisco
+531,NewsBlur,2012,1,1,3,3,No,USA,Cambridge
+532,OctaveWealth,,2,1,1,2,No,USA,San Francisco
+533,Upwave,2012,50,1,3,2,Yes,USA,San Francisco
+534,Sparkboard,,1,1,1,2,No,,
+535,Crohnology (by Healthy Labs),2011,1,0,1,4,No,USA,San Francisco
+536,Eligible,2011,,1,1,5,Yes,USA,
+537,FundersClub,2012,5,2,2,4,No,USA,San Francisco
+538,Soylent,,51,0,3,2,No,USA,Los Angeles
+539,Zentail,2011,30,1,4,4,No,USA,Columbia
+540,HealthSherpa,,40,2,1,2,No,USA,Sacramento
+541,Human Dx,,11,2,1,2,No,USA,San Francisco
+542,Mth Sense,,11,1,1,2,No,USA,San Jose
+543,Rainforest,2012,40,2,4,4,No,USA,San Francisco
+544,"Screenleap, Inc.",2011,4,1,3,2,No,USA,San Carlos
+545,Buxfer,2006,1,1,2,3,Yes,USA,Santa Clara
+546,Virtualmin,,2,2,1,2,No,USA,Mountain View
+547,Blue Frog Gaming,,11,2,1,2,No,USA,Akron
+548,CleverDeck,,1,1,1,2,No,Turkey,Istanbul
+549,Shoptiques,,51,0,1,2,No,USA,New York
+550,Ninite,,2,2,1,2,No,USA,San Francisco
+551,RescueTime,2007,15,2,4,4,No,USA,Seattle
+552,Poll Everywhere,2008,64,2,4,3,No,USA,San Francisco
+553,Polymath Robotics,2021,9,2,2,7,Yes,USA,San Francisco
+554,Terrace,2021,5,2,1,6,No,USA,Los Angeles
+555,Morf Health,2022,2,2,1,7,Yes,USA,San Francisco
+556,Materee,2022,20,2,1,4,Yes,Indonesia,Jakarta
+557,Ping,2021,20,4,2,5,No,Argentina,Miami
+558,Dev Tools AI,2022,2,2,2,6,No,USA,San Francisco
+559,Guardian Bio,2022,2,2,1,6,Yes,USA,Boston
+560,Pivo Technology Inc,2021,11,2,3,7,Yes,Nigeria,Lagos
+561,Integrated Reasoning,2021,2,2,3,7,No,USA,San Francisco
+562,Coverage Cat,2022,2,2,2,4,No,USA,New York
+563,AccessOwl,2022,4,2,1,6,No,Germany,Mountain View
+564,Intuned,2022,2,2,4,6,Yes,USA,Kirkland
+565,Cone,2022,8,2,1,5,No,India,Hyderabad
+566,Landeed,2022,5,3,3,7,No,India,Hyderabad
+567,Lotus,2022,2,1,2,6,No,USA,San Francisco
+568,Axle,2022,,3,3,6,Yes,USA,New York
+569,Lumo,2022,3,2,1,6,No,Spain,Barcelona
+570,Cambio,2021,3,2,1,7,No,USA,San Francisco
+571,InVision Medical Technology,2022,2,2,0,7,Yes,USA,Los Angeles
+572,Kamion,2020,12,1,1,6,Yes,Turkey,Istanbul
+573,CAPSULE,2022,2,2,0,5,No,USA,San Francisco
+574,Shelf,2022,2,2,3,5,No,India,Bengaluru
+575,Be Golden,2021,2,2,4,6,No,USA,San Francisco
+576,Kashin,2020,55,2,4,3,Yes,Peru,Lima
+577,Velontra,2021,4,2,2,7,Yes,USA,Cincinnati
+578,Vizzly,2022,2,2,1,6,No,United Kingdom,London
+579,REVER,2022,18,2,0,2,No,Spain,Barcelona
+580,AlgoTest,2021,4,2,4,6,Yes,India,Delhi
+581,Abridge,2022,2,2,3,6,No,India,San Francisco
+582,Knowtex,2022,2,2,4,7,No,USA,San Francisco
+583,Taro,2022,2,2,2,7,No,USA,Redwood City
+584,MovingLake,2022,3,2,2,7,No,Mexico,Mexico City
+585,Slingshot,2022,2,2,1,5,No,USA,San Francisco
+586,Uwi,2022,14,3,3,5,Yes,Philippines,Makati
+587,Monterey AI,2022,2,2,2,6,No,USA,San Francisco
+588,Jamble,2021,3,3,0,7,No,France,San Francisco
+589,Lancey,2022,2,2,0,2,No,Canada,Toronto
+590,ReleviumBio,2019,4,2,2,7,No,Ireland,Galway
+591,Blockscope,2022,2,2,0,5,No,USA,New York
+592,Moonshot,2022,2,2,2,7,No,United Kingdom,London
+593,Entvin,2022,3,3,3,6,No,India,San Francisco
+594,autone,2021,8,2,1,6,Yes,Italy,London
+595,Oneleet,2022,3,2,1,7,Yes,Netherlands,Amsterdam
+596,Krave Mart,2021,80,4,4,7,No,Pakistan,Karachi
+597,Drahim 💰,2021,8,2,2,5,Yes,Saudi Arabia,Riyadh
+598,Almond,2021,5,2,3,7,Yes,USA,Los Angeles
+599,Jasmine,2022,6,3,2,6,No,USA,San Francisco
+600,Levers,2022,3,3,0,5,Yes,Saudi Arabia,Jeddah
+601,Polymer,2022,3,2,1,6,No,USA,San Francisco
+602,Caddie,2021,2,2,4,6,No,Canada,Toronto
+603,UpLink,2021,4,4,1,7,No,USA,Washington
+604,SideGuide,2022,4,4,2,5,Yes,USA,Boston
+605,Momentu,2021,25,2,2,7,Yes,Colombia,Cali
+606,Drip,2021,15,3,2,7,No,Brazil,São Paulo
+607,FoodCourt,2021,80,2,3,6,Yes,Nigeria,Lagos
+608,Sunpia,2022,3,3,0,5,No,USA,San Jose
+609,Delight,2022,2,2,0,3,No,USA,San Francisco
+610,Invofox,2015,12,3,2,7,No,Spain,Madrid
+611,Hero,2021,2,2,1,4,No,Panama,Panama City
+612,Excheqr,2022,3,3,1,7,Yes,,
+613,KemNet,2022,2,1,2,7,No,Canada,Edmonton
+614,HOMLI,2021,10,3,3,7,Yes,USA,New York
+615,Patika,2021,3,2,3,6,No,Kenya,Nairobi
+616,Conversion Pattern,2022,6,3,4,7,No,United Kingdom,London
+617,Relate,2019,6,3,3,5,No,USA,San Francisco
+618,Relay,2022,3,3,1,6,Yes,USA,Salt Lake City
+619,Masref,2021,4,3,3,4,Yes,United Kingdom,London
+620,Lamin Labs,2022,2,2,2,7,Yes,Germany,Munich
+621,Trendex,2021,5,3,1,5,Yes,France,Paris
+622,Hiresure.ai,2020,35,3,4,6,No,India,Bengaluru
+623,AiPrise,2022,2,2,1,7,No,USA,Santa Clara
+624,Roforco,2021,14,2,3,5,No,USA,San Francisco
+625,Allero,2022,4,2,0,6,No,Israel,Tel Aviv-Yafo
+626,Blacktop Hoops by Vinci Games,2021,7,2,3,5,No,USA,Berkeley
+627,Quindar,2022,6,6,2,6,No,USA,Denver
+628,Unthread,2021,2,2,4,6,Yes,USA,New York
+629,Kombo,2022,4,4,1,4,No,Germany,Berlin
+630,Anchor,2022,8,3,2,7,Yes,Nigeria,Lagos
+631,Rampay,2022,2,2,2,7,No,India,Delaware City
+632,Plutto,2022,5,4,1,5,Yes,Chile,Santiago
+633,Hostfi,2022,2,2,1,6,No,USA,New York
+634,Ruffo,2022,5,3,3,6,No,USA,San Francisco
+635,Artemis Labs,2021,3,3,0,4,Yes,USA,San Francisco
+636,Feather,2022,2,2,2,7,No,USA,Seattle
+637,Grai,2021,1,1,2,5,Yes,USA,San Francisco
+638,Tangia,2020,6,2,3,4,Yes,USA,Wilmington
+639,Fini,2022,2,2,1,7,Yes,Netherlands,Amsterdam
+640,Metriport,2022,2,2,2,7,No,USA,San Francisco
+641,Volantio,,19,3,2,2,No,USA,Atlanta
+642,Needl,2022,3,3,0,6,No,USA,Seattle
+643,iollo,2022,3,2,2,7,No,USA,San Francisco
+644,Garage,2021,54,2,1,5,Yes,Ghana,Accra
+645,Chowdeck,2021,14,3,3,6,Yes,Nigeria,Lagos
+646,Maya Labs,2020,7,2,1,5,No,India,Bengaluru
+647,FlyCode,2021,7,3,3,6,Yes,Israel,New York
+648,Pluralith,2021,2,2,3,5,Yes,Austria,New York
+649,Manatee,2021,2,2,1,4,No,USA,College Park
+650,Diversion,2021,5,2,3,6,No,Israel,Tel Aviv-Yafo
+651,Cambio,2020,4,2,4,5,No,USA,Chicago
+652,Payable,2022,8,3,1,4,Yes,Indonesia,Jakarta
+653,Mintplex,2022,2,2,1,5,No,USA,Los Angeles
+654,Hedgehog,2022,2,2,0,7,No,USA,Palo Alto
+655,Coris,2022,2,2,2,5,Yes,USA,San Francisco
+656,Bitstack,2021,5,2,4,5,Yes,France,Paris
+657,Airhart Aeronautics,2022,3,2,1,7,Yes,USA,Long Beach
+658,Peoplebox,2018,20,2,4,7,Yes,India,San Francisco
+659,Zoltar Labs,2022,2,2,3,5,Yes,Singapore,Mountain View
+660,Nucleus,2022,2,2,2,2,Yes,USA,San Francisco
+661,Shipmates,2021,10,2,4,3,Yes,Philippines,Makati
+662,Thera,,2,2,0,7,No,USA,New York
+663,Sytex,2019,22,5,2,4,No,Argentina,Córdoba
+664,Provision,2022,2,2,3,7,No,Canada,Toronto
+665,Pulppo,2022,21,2,2,4,Yes,Mexico,Mexico City
+666,Videobug,2022,2,2,2,4,No,USA,Bengaluru
+667,NewsCatcher,2021,6,2,2,7,No,France,Paris
+668,Typewise,2020,12,2,3,7,Yes,Switzerland,Zürich
+669,Tersho,2022,2,2,2,7,No,USA,Jaipur
+670,Ajourney,2022,3,3,3,5,No,Singapore,Singapore
+671,BiggerPicture,2019,2,2,1,6,No,USA,San Francisco
+672,Slauth.io,2022,6,3,1,7,Yes,Israel,Tel Aviv-Yafo
+673,Ivy,2021,10,1,2,7,No,United Kingdom,London
+674,Apprecio,2021,15,1,0,5,No,Mexico,Mexico City
+675,Chainsight,2020,9,2,4,7,Yes,,
+676,Metafi,2022,2,2,1,7,Yes,Singapore,San Francisco
+677,numi foods,2022,5,2,4,6,No,Germany,Potsdam
+678,Aragorn AI,2022,4,3,1,6,No,USA,Plano
+679,the402,,2,2,1,7,No,USA,New York
+680,Payload CMS,2018,3,3,4,5,Yes,USA,Grand Rapids
+681,Ten Lives,,2,2,0,7,No,USA,San Francisco
+682,Malama Health,2022,3,3,3,5,Yes,USA,Stanford
+683,Hello,2022,2,2,2,5,No,USA,San Francisco
+684,Maverick Bioworks,2022,5,3,3,4,Yes,USA,San Francisco
+685,Illuminant Surgical,2021,4,2,1,5,Yes,USA,Cambridge
+686,Tank Payments,2022,3,3,1,7,Yes,USA,Santa Barbara
+687,Apply Design,2021,4,2,3,7,Yes,Israel,Tel Aviv-Yafo
+688,Evoly,2021,3,2,0,2,Yes,,
+689,Juicebox,2022,2,2,1,6,Yes,USA,New York
+690,Wattvision,2009,,1,3,2,No,USA,Princeton
+691,Rio,2022,3,3,3,7,Yes,USA,Mexico City
+692,Popsy,2021,6,2,4,7,Yes,Slovenia,Berlin
+693,Gullak Money,2022,15,3,3,4,No,India,Bengaluru
+694,Supercool,2022,4,4,2,5,Yes,,
+695,Windmill,2022,3,1,1,7,No,France,Paris
+696,Activepieces,2022,3,2,3,5,No,USA,California City
+697,Seaflight Technologies,2022,2,2,1,7,Yes,USA,Torrance
+698,Raven,2021,4,2,2,5,Yes,India,Bengaluru
+699,Cashboard,2021,7,2,0,2,No,USA,New York
+700,CodeCrafters,2022,2,2,2,5,No,Singapore,San Francisco
+701,Notebook Labs,2022,3,3,1,5,No,USA,Stanford
+702,Blee,2022,2,2,0,6,Yes,USA,New York
+703,Overwatch,2022,5,3,2,5,Yes,USA,New York
+704,Bridgecard,2021,5,2,3,6,Yes,Nigeria,Lagos
+705,ALT TEX,2020,10,2,2,7,No,Canada,Toronto
+706,Disclo,2019,5,2,3,2,No,USA,Austin
+707,Tranch,2021,9,2,4,4,Yes,United Kingdom,New York
+708,Sylva,2022,6,5,2,5,No,USA,San Francisco
+709,Deekard,2022,2,2,2,7,No,Germany,Berlin
+710,Sunlight,2021,5,3,0,6,Yes,Israel,San Francisco
+711,Novig,2021,3,2,3,5,Yes,USA,New York
+712,Lyra,2021,3,2,1,5,No,USA,Houston
+713,Delegasi,2022,8,2,1,5,Yes,Indonesia,Bandung
+714,Signatur Biosciences,2022,2,2,2,7,No,United Kingdom,San Francisco
+715,NuMind,2022,3,2,3,7,No,France,Cambridge
+716,Ballerine,2022,3,3,0,5,No,Israel,Tel Aviv-Yafo
+717,EthosX,2022,2,2,2,7,No,USA,Bengaluru
+718,Boostly,2017,13,2,3,5,No,USA,Orem
+719,Pilot AI,2022,3,1,1,7,No,USA,San Francisco
+720,BlueHill Payments,2022,2,2,4,7,No,USA,San Francisco
+721,Craze,2022,3,3,2,7,No,India,Mumbai
+722,RootFi,2022,8,3,2,5,No,India,Bengaluru
+723,Fetii,2020,6,2,3,2,Yes,USA,Austin
+724,Array Labs,,,2,0,5,No,USA,Sunnyvale
+725,Dr. Treat,2021,21,3,3,5,No,USA,San Francisco
+726,Serinus Biosciences,2022,2,2,0,6,Yes,USA,New York
+727,trebu,2022,3,3,1,5,No,Mexico,Mexico City
+728,Paigo,2022,2,2,1,7,Yes,USA,San Francisco
+729,Moneco,2022,3,3,0,4,No,Senegal,Geneva
+730,ilumadata,2022,2,2,1,7,No,Australia,London
+731,Kapstar,2022,5,3,0,5,Yes,Brazil,São Paulo
+732,Coupl,2022,4,2,2,5,Yes,India,Bengaluru
+733,Openline,2021,7,3,2,5,No,United Kingdom,London
+734,Openpod,2022,2,2,1,4,No,USA,San Francisco
+735,TrueBiz,2022,2,2,1,7,No,USA,New York
+736,Alterya,2022,2,2,0,7,Yes,Israel,Tel Aviv-Yafo
+737,Cerrion,2021,4,3,1,7,No,Switzerland,Zürich
+738,Blitz,2022,2,2,2,5,Yes,France,Paris
+739,erad,2022,5,3,2,5,Yes,Saudi Arabia,Riyadh
+740,Ruleset,2022,2,2,4,7,Yes,USA,Sunnyvale
+741,Pasito,2021,3,3,3,7,No,USA,New York
+742,Bunting Labs,2022,2,2,2,7,No,USA,San Francisco
+743,Devyce,2020,6,2,3,5,Yes,United Kingdom,London
+744,Tailor,2021,6,2,0,7,Yes,Japan,Tokyo
+745,Internet Friends,2022,2,2,1,4,Yes,,
+746,Chariot,2022,3,3,1,2,No,USA,New York
+747,Levo Financial,2021,4,4,4,4,No,USA,Salt Lake City
+748,Stackup,2021,3,2,1,4,No,Australia,Los Angeles
+749,Two Dots,2022,3,2,2,6,No,USA,New York
+750,Bend,2022,2,2,3,6,No,USA,New York
+751,PayO,2020,40,2,2,7,Yes,India,Bengaluru
+752,Immuna,2022,3,2,1,7,Yes,USA,San Francisco
+753,Derisk,2022,2,2,0,5,No,USA,Seattle
+754,Sherlok,2022,2,2,1,7,No,USA,San Francisco
+755,Birch Biosciences,2021,6,2,3,6,Yes,USA,Portland
+756,Ciro,2022,3,3,1,5,Yes,USA,San Francisco
+757,LiveTrucks,2022,2,2,0,5,No,USA,San Francisco
+758,Mercator,2022,2,2,1,5,No,USA,San Francisco
+759,Elessar,2022,1,1,0,2,No,USA,Palo Alto
+760,SolStar,2021,2,2,1,7,No,USA,Monterey
+761,Sematic,2022,2,1,2,7,Yes,USA,San Francisco
+762,Probably Nothing Labs,2022,2,2,1,5,No,USA,San Francisco
+763,Paces,2022,2,2,4,7,No,USA,New York
+764,Stream,2022,2,2,1,6,No,USA,New York
+765,Chordio,2022,2,2,2,4,No,USA,Issaquah
+766,Weltio,2021,15,2,3,6,No,Mexico,Mexico City
+767,DeploySentinel,2022,2,2,2,5,No,USA,Foster City
+768,Instant,2022,2,2,0,4,No,USA,New York
+769,Wolfia,2022,2,2,2,5,No,USA,Mountain View
+770,Banabo,2022,2,2,0,5,No,USA,San Francisco
+771,Cisterna Biologics,2022,1,1,2,5,No,USA,San Diego
+772,Clinikally,2021,10,1,3,6,Yes,USA,Gurugram
+773,Coinbooks,2021,6,1,1,4,No,USA,San Francisco
+774,Albiware Inc.,2020,12,2,3,2,Yes,USA,Downers Grove
+775,Poly,2022,2,2,3,7,Yes,USA,San Francisco
+776,Pana,2021,5,2,4,7,No,USA,Winter Garden
+777,EUGIT Therapeutics,2022,1,1,1,7,No,USA,Boston
+778,SimpleHash,2022,,2,2,6,No,USA,San Francisco
+779,Medplum,2021,3,3,2,7,No,USA,San Francisco
+780,BBy,2017,7,1,3,5,Yes,USA,New York
+781,WhiteLab Genomics,2019,13,2,2,5,Yes,France,Paris
+782,TradeX,2021,25,3,3,5,Yes,India,Gurugram
+783,Massdriver,2021,11,3,3,5,No,USA,Los Angeles
+784,Reality Defender,2021,10,3,2,7,Yes,USA,New York
+785,Lizza,2022,8,2,2,5,Yes,Mexico,Guadalajara
+786,Mono,2020,18,4,4,4,No,Colombia,Bogotá
+787,NFTScoring,2021,8,2,3,3,Yes,USA,New York
+788,CrediBook,2020,53,3,4,4,Yes,Indonesia,Jakarta
+789,Remi Labs,2022,7,1,2,5,Yes,USA,Salt Lake City
+790,Fresh Factory,2020,100,3,1,5,No,Indonesia,Jakarta
+791,Onboard.io,2020,6,2,3,7,No,USA,Detroit
+792,Seis,2021,17,2,2,4,Yes,USA,San Francisco
+793,Bananas,2021,50,2,3,5,No,Indonesia,Jakarta
+794,Eventual,2022,2,2,1,2,Yes,USA,San Francisco
+795,AiSupervision,2021,8,2,2,2,Yes,Germany,Mannheim
+796,Phoenix Hydrogen,2021,2,2,1,7,No,USA,Berkeley
+797,Aigis,2021,5,3,1,6,No,Indonesia,Jakarta
+798,Flike,2021,5,2,2,4,Yes,USA,San Francisco
+799,Alima,2021,20,3,2,4,Yes,Mexico,Mexico City
+800,Vecindario,2019,87,2,2,5,Yes,Colombia,Medellín
+801,Karate Labs,2021,2,2,2,5,No,USA,Wilmington
+802,HippoBuild,2021,12,2,4,2,Yes,Colombia,Bogotá
+803,Pantore,2020,3,3,2,4,Yes,Brazil,São Paulo
+804,beU delivery,2021,300,1,0,5,No,Ethiopia,Addis Ababa
+805,GAVEL,2021,12,2,3,5,Yes,Germany,Berlin
+806,Cofactr,2021,10,2,3,5,Yes,USA,New York
+807,SixWheel,2020,4,1,0,5,Yes,USA,San Mateo
+808,KorrAI,2020,8,2,3,4,Yes,Canada,Halifax Regional Municipality
+809,Pina Earth,2021,3,3,2,2,No,Germany,Munich
+810,Beyond Aero,2020,10,3,2,7,Yes,France,Toulouse
+811,Pipebird,2021,4,3,2,7,No,USA,New York
+812,"Origami Therapeutics, Inc.",2015,4,1,3,5,No,USA,San Diego
+813,Cinapse,2020,10,3,4,7,No,USA,Los Angeles
+814,AirMyne,2022,4,2,3,6,No,USA,Berkeley
+815,CloudEagle.ai,2021,25,2,2,6,No,USA,Palo Alto
+816,Mooji Meats,2022,2,2,1,5,Yes,USA,Baltimore
+817,Poko,2021,15,3,2,7,Yes,Singapore,Singapore
+818,GoSats,2021,8,2,3,7,Yes,India,Bengaluru
+819,Glocally,2021,3,3,1,5,Yes,Germany,Munich
+820,Deall Jobs,2020,20,1,1,6,Yes,Indonesia,Jakarta
+821,Impossible Mining,2020,20,3,3,3,Yes,Canada,Pasadena
+822,Trusty,2020,6,2,4,5,No,USA,San Francisco
+823,Syncware,2021,6,2,1,7,Yes,,Singapore
+824,TAI,2020,3,2,2,5,Yes,USA,San Francisco
+825,Circular,2021,25,4,2,6,Yes,Singapore,Singapore
+826,Powerhouse AI,2021,3,2,2,5,Yes,Singapore,Singapore
+827,HelloGuru,2019,7,2,4,4,No,USA,San Francisco
+828,GIMO,2019,40,2,3,2,Yes,Vietnam,Hanoi
+829,Olympian Motors,2021,7,2,3,7,Yes,USA,Los Angeles
+830,Netmaker,2021,4,2,3,5,Yes,USA,Asheville
+831,Cashmere,2021,3,3,3,5,Yes,USA,San Francisco
+832,Pigeon Loans,2020,4,2,4,5,Yes,USA,Miami
+833,The Ankler,2022,2,2,3,3,No,USA,Los Angeles
+834,Darsel,2021,5,1,1,6,Yes,,
+835,Verdn,2020,3,2,1,7,No,United Kingdom,London
+836,Heptabase,2021,3,3,3,5,No,TW,Taiwan
+837,Reviving Mind,2020,3,2,4,6,No,USA,Boston
+838,Anja Health,2021,2,1,3,5,No,USA,Los Angeles
+839,Koko,2020,2,2,3,7,No,USA,San Francisco
+840,10 minute squad,2018,11,1,3,5,No,South Korea,South Korea
+841,Finku,2021,11,3,2,3,No,Indonesia,Jakarta
+842,Plover Parametrics,2022,3,3,0,5,No,USA,San Francisco
+843,Avocademy,2020,6,2,2,2,No,USA,Miami
+844,Mahaana Wealth,2021,6,1,0,2,Yes,Pakistan,Islamabad
+845,Marft,,3,0,1,2,No,,
+846,Dumme,2022,1,1,1,4,No,,
+847,Marathon Education,2021,20,2,1,3,No,Vietnam,Ho Chi Minh City
+848,Workflow86,2020,5,1,3,7,No,Australia,San Francisco
+849,Moneytree,2021,2,2,4,7,No,USA,Los Angeles
+850,WANTD,2021,4,4,4,4,No,USA,Los Angeles
+851,Humand,2021,34,2,3,5,No,USA,San Francisco
+852,1Flow,2021,5,1,3,5,No,USA,San Francisco
+853,Unravel Carbon,2021,30,2,1,5,Yes,Singapore,Singapore
+854,RTHM,2018,4,2,3,7,Yes,USA,Redwood City
+855,Rally,2021,2,2,3,5,Yes,USA,New York
+856,Discz Music,2021,6,2,2,2,Yes,USA,New York
+857,Arpari,2020,4,2,0,7,No,USA,New York
+858,Fleek,2021,3,2,1,5,No,USA,San Francisco
+859,yhangry,2020,12,2,4,2,Yes,United Kingdom,London
+860,GoJom,2020,140,3,2,5,Yes,Peru,Lima
+861,Ploomber,2021,2,2,4,4,No,USA,New York
+862,Float Health,2021,3,3,3,2,No,USA,Carlsbad
+863,amiloz,2021,45,3,0,5,Yes,Mexico,Mexico City
+864,Winter,2021,2,1,1,5,Yes,USA,San Francisco
+865,Shaped,2021,3,3,2,2,No,USA,New York
+866,Rider,2019,180,1,3,5,Yes,Pakistan,Karachi
+867,ngrow.ai,2020,11,2,3,3,Yes,USA,San Francisco
+868,Winno,2019,2,2,2,4,No,USA,San Francisco
+869,Vobi,2021,30,4,1,6,No,Brazil,São Paulo
+870,Clupp,2021,12,2,4,2,No,Mexico,Mexico City
+871,QUIK,2021,25,2,1,5,Yes,Venezuela,Maracaibo
+872,Unsaddl,2022,2,2,3,5,Yes,USA,New York
+873,WishRoll,2022,3,3,1,2,Yes,USA,New York
+874,SOTERI SKIN,2021,2,2,3,3,Yes,USA,San Francisco
+875,Decent,2021,4,4,2,6,No,USA,New York
+876,Drifting in Space,2021,2,2,1,2,No,USA,New York
+877,Spade,2021,2,2,3,5,No,Canada,Vancouver
+878,Fogbender,2020,6,1,2,4,No,USA,Oakland
+879,PropelAuth,2021,3,1,2,6,No,USA,
+880,Yatima Inc.,2020,7,3,0,6,No,USA,Boston
+881,Stablegains,2021,3,2,3,3,Yes,,
+882,Topship,2020,10,2,3,6,No,Nigeria,Lagos
+883,Amal Invest,2021,3,1,1,5,No,Bahrain,Manama
+884,SNAB,2021,6,2,1,5,No,Spain,Madrid
+885,Quan,2020,17,2,4,7,No,Netherlands,The Hague
+886,Attain,2022,2,2,0,7,No,USA,Berkeley
+887,Better Opinions,2021,12,2,4,6,No,India,Gurugram
+888,Forest,,4,2,0,5,No,USA,San Francisco
+889,Nophin,2021,3,3,4,5,No,USA,New York
+890,Venue.live,2020,9,4,2,7,No,Canada,Toronto
+891,Unai,2021,12,1,0,5,No,USA,San Francisco
+892,IoTFlows Inc,2019,2,2,4,5,No,USA,Atlanta
+893,Trueplace,2021,2,2,1,4,No,Canada,Vancouver
+894,Vessel,2021,2,2,2,2,No,USA,San Francisco
+895,CypherD Wallet,2021,3,1,0,2,Yes,USA,Palo Alto
+896,Joon,2021,6,3,4,5,Yes,USA,Oakland
+897,Bracket,2021,3,3,2,5,No,USA,Los Angeles
+898,Lingt,,2,1,1,2,No,USA,San Francisco
+899,OurEye.ai,2020,8,2,4,5,Yes,India,Bengaluru
+900,PINA,2021,25,4,2,4,Yes,Indonesia,Jakarta
+901,Numida,2016,60,3,4,2,Yes,Uganda,Kampala
+902,Brainboard,2019,5,2,2,2,No,France,Paris
+903,re-mint,2021,2,2,1,5,No,USA,San Francisco
+904,Nimbus,2021,3,3,2,2,No,USA,San Francisco
+905,Andson Biotech,2021,2,1,1,7,No,USA,Atlanta
+906,Neural Dynamics Technologies,2018,2,1,2,5,Yes,USA,Boston
+907,Theneo,2021,10,2,4,5,Yes,USA,Seattle
+908,Kula,2021,5,2,2,5,No,United Kingdom,London
+909,MutableAI,2021,2,1,2,5,No,USA,Pittsburgh
+910,HoyTrabajas,2019,82,3,4,6,Yes,Colombia,Bogotá
+911,Bemlo,2021,7,3,3,7,Yes,Sweden,Stockholm
+912,Joe,2020,12,2,3,4,Yes,France,Paris
+913,Rome,2022,1,1,0,6,No,USA,San Francisco
+914,Fello,2021,19,2,4,5,Yes,India,Bengaluru
+915,Telematica,2021,3,2,2,6,No,India,Bengaluru
+916,Vimmerse,2021,7,2,3,6,No,USA,San Jose
+917,Lifecast,2021,2,1,3,5,No,USA,Palo Alto
+918,Duplo,2021,13,3,2,5,No,Nigeria,Lagos
+919,Material Depot,2021,4,2,2,7,Yes,India,Bengaluru
+920,PriceVault,2022,2,2,0,5,Yes,Hong Kong,Hong Kong
+921,RentHop,,9,2,1,2,No,USA,New York
+922,SaveIN,2020,15,3,4,4,Yes,India,Delhi
+923,DimOrder,2019,70,2,3,6,Yes,Hong Kong,Hong Kong
+924,Courtyard,2021,4,2,3,3,No,USA,San Francisco
+925,Carbon Crusher,2021,8,3,2,5,Yes,Norway,Oslo
+926,Nullstone,2020,2,2,3,5,No,USA,Atlanta
+927,Take App,2021,5,1,3,5,No,Singapore,Singapore
+928,BotCity,2020,10,2,3,7,No,Brazil,São Paulo
+929,Payourse,2020,12,3,3,4,No,Nigeria,Lagos
+930,Cinder,2021,8,2,1,5,No,USA,Washington
+931,Nash,2021,11,3,2,6,Yes,Kenya,Nairobi
+932,AntWalk,2019,50,2,1,5,No,India,Bengaluru
+933,Legistify,2016,50,2,0,5,No,India,Gurugram
+934,Moni,2021,20,2,4,5,No,Nigeria,Lagos
+935,Cash Flow Portal,2020,16,1,3,7,No,USA,Seattle
+936,Airwork,2022,5,1,4,5,No,Canada,Toronto
+937,Simplifyd Systems,2021,8,2,2,3,Yes,Nigeria,Lagos
+938,Durioo,2021,50,1,2,4,Yes,Malaysia,Cyberjaya
+939,goodfin,2022,6,1,1,6,No,USA,Santa Monica
+940,Trackingplan,2021,6,5,2,5,No,Spain,Barcelona
+941,Hydra,2021,4,2,3,5,No,USA,San Francisco
+942,Arintra,2020,20,2,1,7,Yes,USA,Austin
+943,SmartHelio,2019,12,2,4,6,Yes,Switzerland,Lausanne
+944,Campfire,2021,2,2,2,2,No,Canada,Toronto
+945,Demo Gorilla,2021,2,2,1,3,No,USA,San Francisco
+946,Blitzllama,2021,5,3,1,3,No,India,Bengaluru
+947,Yunit Inc,2020,3,1,0,2,No,USA,Oakland
+948,"Sendme, Inc",2021,40,1,3,5,No,Nigeria,Ibadan
+949,Vendy,2022,9,2,3,5,Yes,Nigeria,Lagos
+950,Argo,2021,10,1,3,6,No,USA,Los Angeles
+951,Lovage Labs,2020,6,3,2,5,Yes,USA,Lehi
+952,Aklimate,2021,3,3,2,5,Yes,United Kingdom,London
+953,Fuell,2019,10,1,4,3,Yes,Spain,Madrid
+954,Tendo,2021,15,4,4,7,Yes,Ghana,Accra
+955,Convoy,2021,8,2,2,5,No,Nigeria,Lagos
+956,Lenco,2021,13,4,4,4,Yes,Nigeria,Lagos
+957,Dojah,2021,22,2,2,5,No,Nigeria,Lagos
+958,SubscriptionFlow,2021,9,1,4,5,Yes,USA,San Francisco
+959,Strong Compute,2021,8,1,3,2,Yes,Australia,Sydney
+960,Grey,2020,15,2,2,5,No,Nigeria,Lagos
+961,Finnt,2022,2,2,2,5,Yes,USA,Miami
+962,"Elphinstone, Inc.",2020,15,2,3,4,Yes,Pakistan,Karachi
+963,Bonsai Desk,2021,2,2,2,5,No,USA,Atlanta
+964,Alga Biosciences,2021,3,3,3,5,No,USA,San Francisco
+965,Tradezi,2022,5,2,0,5,Yes,Singapore,Singapore
+966,Identitypass,2021,27,3,4,6,No,USA,Lagos
+967,Agency,2020,,2,2,7,Yes,USA,New York
+968,Pluto.markets,2021,5,2,1,4,Yes,Denmark,Copenhagen
+969,PayCrunch,2020,5,1,1,2,Yes,India,Bengaluru
+970,Livedocs,2020,3,1,1,5,No,USA,San Francisco
+971,voize,2020,4,3,1,2,Yes,Germany,Berlin
+972,Requestly,2021,4,2,3,5,Yes,India,New Delhi
+973,Kaagaz,2019,9,3,4,2,No,India,New Delhi
+974,Boya,2021,9,2,3,7,Yes,Kenya,Nairobi
+975,Curacel,2019,30,2,2,7,No,Nigeria,Lagos
+976,FinFlx,2021,8,2,4,5,Yes,United Arab Emirates,Dubai
+977,LunaJoy,2021,6,2,2,5,No,USA,Atlanta
+978,Edustack,2021,7,1,3,4,Yes,India,Hyderabad
+979,Cotera,2021,2,1,2,2,No,United Kingdom,New York
+980,Takt,2021,2,2,3,6,No,USA,Chicago
+981,Botin,2021,3,3,4,4,No,Costa Rica,San José
+982,Posh,2021,4,2,3,6,Yes,USA,San Francisco
+983,Toko,2021,2,2,1,7,No,USA,New York
+984,Enlightra,2021,4,2,0,4,No,Switzerland,Ecublens
+985,Cogram,2021,2,2,2,2,Yes,Germany,Berlin
+986,Markaz Technologies,2021,4,4,3,4,Yes,Pakistan,Islamabad
+987,Eazipay Inc.,2021,8,3,2,5,Yes,Nigeria,Lagos
+988,Wibond,2020,30,2,0,5,Yes,Argentina,Córdoba
+989,Snippyly,2020,4,1,4,7,No,USA,San Francisco
+990,digiventures,2018,30,2,4,5,Yes,Argentina,Buenos Aires
+991,PayCaddy,2018,14,2,3,5,Yes,Panama,Panama City
+992,Tuva Health,2021,3,2,1,5,No,USA,Salt Lake City
+993,Plumter,2021,2,2,2,3,No,Nigeria,Lagos
+994,Complete,2021,2,2,2,5,No,USA,San Francisco
+995,Tingo,2021,2,2,1,7,No,India,Gurugram
+996,Anfin,2021,40,2,3,5,No,Vietnam,Ho Chi Minh City
+997,InsureMyTeam,2021,11,2,0,5,Yes,India,Mumbai
+998,SALT,2020,14,2,3,5,Yes,India,Bengaluru
+999,NearWave,2020,1,1,3,5,Yes,USA,South Bend
+1000,Stairs Financial,2021,2,2,4,5,Yes,USA,New York
