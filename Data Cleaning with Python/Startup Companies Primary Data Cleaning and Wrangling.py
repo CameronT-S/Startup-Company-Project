@@ -35,7 +35,7 @@ tags = pd.read_csv('tags.csv')
 # 
 # We can create a column for whether a company is remote or not and also clean the country data to just display which country the startup is located in without the remote information. 
 # 
-# For the city data we can remove the country data as we already have a column that contains this information.
+# For the city data we can remove the country values as we already have a column that contains this information. We also notice that some of the cities have incorrect countries associated with them from the country column so this needs to be corrected.
 # 
 # With the column 'founded' we see that some values for the year were input as -1 and this is not correct data, we converted the -1 values to NaN to not interfere with the analysis in the future.
 # 
@@ -56,128 +56,116 @@ company.describe()
 # In[5]:
 
 
-company.drop(['link', 'short_description', 'description'], axis=1, inplace=True)
+company['founded'] = company['founded'].replace(-1, np.nan)
 
 
 # In[6]:
 
 
-company['founded'] = company['founded'].replace(-1, np.nan)
+company['founded'] = company['founded'].astype('Int64')
 
 
 # In[7]:
 
 
-company.founded.unique()
+company['Remote'] = company['country'].str.contains('Remote').replace({True: 'Yes', False: 'No'})
 
 
 # In[8]:
 
 
-company['Remote'] = company['country'].str.contains('Remote').replace({True: 'Yes', False: 'No'})
+company['country_cleaned'] = company['country'].replace({'; Remote': '', 'Remote;': ''}, regex=True).str.strip()
 
 
 # In[9]:
 
 
-company['country_cleaned'] = company['country'].replace({'; Remote': '', 'Remote;': ''}, regex=True).str.strip()
+company['country_cleaned'] = company['country_cleaned'].replace('na', np.nan)
 
 
 # In[10]:
 
 
-company['country_cleaned'] = company['country_cleaned'].replace('na', np.nan)
+company['country_cleaned'] = company['country_cleaned'].replace('Remote', np.nan)
 
 
 # In[11]:
 
 
-company['country_cleaned'] = company['country_cleaned'].replace('Remote', np.nan)
+company['city'] = company['location'].str.split(',', expand=True)[0]
 
 
 # In[12]:
 
 
-company['team_size'] = company['team_size'].replace(-1, np.nan).astype('Int64')
+company['city'] = company['city'].replace('NY', np.nan)
 
 
 # In[13]:
 
 
-company['team_size'] = company['team_size'].replace(0, np.nan).astype('Int64')
+company['city'] = company['city'].replace('CA', np.nan)
 
 
 # In[14]:
 
 
-company['city'] = company['location'].str.split(',', expand=True)[0]
+company['team_size'] = company['team_size'].replace(0, np.nan).astype('Int64')
 
 
 # In[15]:
 
 
-company.drop(['country', 'location'], axis=1, inplace=True)
+company['team_size'] = company['team_size'].replace(-1, np.nan).astype('Int64')
 
 
 # In[16]:
 
 
-company['city'] = company['city'].replace('NY', np.nan)
+company.drop(['link', 'short_description', 'description'], axis=1, inplace=True)
 
 
 # In[17]:
 
 
-company['city'] = company['city'].replace('CA', np.nan)
+company.drop(['country', 'location'], axis=1, inplace=True)
 
 
 # In[18]:
 
 
-company['founded'] = company['founded'].astype('Int64')
-
-
-# In[19]:
-
-
 company.to_csv('cleaned_company.csv', index = False)
-
-
-# In[20]:
-
-
-company.team_size.unique()
 
 
 # # Cleaning Founder Table
 # 
 # For the Founder table we just need to clean two columns which is the 'name' column, we need to remove the role from the column as we already have a column for the role in the table. Then we need to categorize the roles of the founders to be able to get summarize the data, we can do this by having a standard set of roles and also an option of other for the less common roles.
 
-# In[21]:
+# In[19]:
 
 
 founder.describe()
 
 
-# In[22]:
+# In[20]:
 
 
 founder.info()
 
 
-# In[23]:
+# In[21]:
 
 
 founder['name_cleaned'] = founder['name'].str.split(',', expand=True)[0]
 
 
-# In[24]:
+# In[22]:
 
 
 founder.drop(['name'], axis=1, inplace=True)
 
 
-# In[25]:
+# In[23]:
 
 
 founder['role'] = founder['role'].astype(str)
@@ -195,13 +183,13 @@ def assign_role(role):
 founder['role'] = founder['role'].apply(assign_role)
 
 
-# In[26]:
+# In[24]:
 
 
 founder.name_cleaned = founder.name_cleaned.str.title()
 
 
-# In[27]:
+# In[25]:
 
 
 founder.to_csv('cleaned_founder.csv', index = False)
@@ -212,55 +200,55 @@ founder.to_csv('cleaned_founder.csv', index = False)
 # In this table we can see that most of the tags are related to industry, however there is also S and W values which related to the Summer and Winter batches that went through Y - Combinator respectively, These batches have a year assigned to them and we would like to seperate out industry and y-combinator batch to analyse the data effectively.
 # We also see that there are some option that state whether the company is active, B2B, public or non-profit, this is something else that we can also create a column for.
 
-# In[28]:
+# In[26]:
 
 
 tags.describe()
 
 
-# In[29]:
+# In[27]:
 
 
 tags.info()
 
 
-# In[30]:
+# In[28]:
 
 
 tags['batch'] = tags['tag'][tags['tag'].str.contains('^[WS]\d{2}$', na=False)]
 
 
-# In[31]:
+# In[29]:
 
 
 tags['nonprofit'] = tags['tag'].str.contains('Nonprofit').map({True: 'Yes', False: 'No'})
 
 
-# In[32]:
+# In[30]:
 
 
 tags['b2b'] = tags['tag'].str.contains('B2B').map({True: 'Yes', False: 'No'})
 
 
-# In[33]:
+# In[31]:
 
 
 tags['public'] = tags['tag'].str.contains('Public').map({True: 'Yes', False: 'No'})
 
 
-# In[34]:
+# In[32]:
 
 
 tags['active'] = tags['tag'].str.contains('Active').map({True: 'Yes', False: 'No'})
 
 
-# In[35]:
+# In[33]:
 
 
 tags['acquired'] = tags['tag'].str.contains('Acquired').map({True: 'Yes', False: 'No'})
 
 
-# In[36]:
+# In[34]:
 
 
 mask = ~(tags['tag'].str.contains('^[WS]\d{2}$', na=False) |
@@ -273,7 +261,7 @@ mask = ~(tags['tag'].str.contains('^[WS]\d{2}$', na=False) |
 tags['industry'] = tags['tag'][mask]
 
 
-# In[37]:
+# In[35]:
 
 
 tags.to_csv('cleaned_tags.csv', index = False)

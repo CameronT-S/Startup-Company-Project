@@ -111,7 +111,7 @@ id,company_name,founded,team_size,no_founders,no_company_socials,no_tags,Remote,
 110,Apollo.io,2015,40,3,2,2,No,USA,San Francisco
 111,PlanGrid,,355,3,1,2,No,USA,San Francisco
 112,Zepto,2020,500,2,1,4,Yes,India,Mumbai
-113,Nowports,2018,350,2,4,5,Yes,,Monterrey
+113,Nowports,2018,350,2,4,5,Yes,Mexico,Monterrey
 114,Fountain,2015,200,1,2,5,No,USA,San Francisco
 115,Replit,2016,75,2,4,2,Yes,USA,San Francisco
 116,AtoB,2019,110,2,4,5,Yes,USA,San Francisco
@@ -123,7 +123,7 @@ id,company_name,founded,team_size,no_founders,no_company_socials,no_tags,Remote,
 122,Bellabeat,2014,70,2,3,3,Yes,USA,San Francisco
 123,Tempo,,158,2,3,4,No,USA,San Francisco
 124,Gather,2020,75,2,2,2,No,USA,San Francisco
-125,Supabase,2020,45,2,2,3,Yes,,Singapore
+125,Supabase,2020,45,2,2,3,Yes,Singapore,Singapore
 126,Panorama Education,2012,450,2,4,4,Yes,USA,Boston
 127,Rescale,,200,2,2,2,No,USA,San Francisco
 128,Goldbelly,2013,150,4,4,4,Yes,USA,New York
@@ -133,7 +133,7 @@ id,company_name,founded,team_size,no_founders,no_company_socials,no_tags,Remote,
 132,Postscript,2018,77,3,2,4,No,USA,Phoenix
 133,Khatabook,2018,97,3,3,3,No,India,Bengaluru
 134,Mutiny,,60,2,3,3,No,USA,San Francisco
-135,CareRev,2015,400,2,4,4,No,,Los Angeles
+135,CareRev,2015,400,2,4,4,No,USA,Los Angeles
 136,TRM Labs,2018,100,2,3,6,No,USA,San Francisco
 137,Shogun,2015,168,2,3,5,No,USA,Palo Alto
 138,Instawork,2016,300,1,3,2,No,USA,San Francisco
@@ -153,7 +153,7 @@ id,company_name,founded,team_size,no_founders,no_company_socials,no_tags,Remote,
 152,Moxion Power Co.,2020,58,2,2,7,Yes,USA,Richmond
 153,May Mobility,2017,200,1,4,4,Yes,USA,Ann Arbor
 154,Bitrise,2014,114,3,4,2,Yes,Hungary,Budapest
-155,Let's Do This,2017,100,2,3,4,No,USA,London
+155,Let's Do This,2017,100,2,3,4,No,United Kingdom,London
 156,Hightouch,2019,43,3,1,2,Yes,USA,San Francisco
 157,Sendwave,2014,350,2,3,2,No,USA,Boston
 158,Ridecell,2009,170,1,4,4,Yes,USA,San Francisco
@@ -173,7 +173,7 @@ id,company_name,founded,team_size,no_founders,no_company_socials,no_tags,Remote,
 172,InfluxData,2012,210,2,4,2,No,USA,San Francisco
 173,Lob,,200,2,4,2,Yes,USA,San Francisco
 174,Career Karma,2018,3,3,4,2,Yes,USA,San Francisco
-175,Instabug,,190,2,4,5,No,Egypt,San Francisco
+175,Instabug,,190,2,4,5,No,USA,San Francisco
 176,VergeSense,2017,70,2,3,2,Yes,USA,San Francisco
 177,Permutive,,205,2,3,2,No,United Kingdom,London
 178,Eight Sleep,2014,50,3,3,2,Yes,USA,New York
@@ -199,7 +199,7 @@ id,company_name,founded,team_size,no_founders,no_company_socials,no_tags,Remote,
 198,Super,2018,700,2,3,5,No,Indonesia,Surabaya
 199,Proxy,2016,50,2,3,4,Yes,USA,San Francisco
 200,Nova Credit,2016,100,2,4,3,Yes,USA,San Francisco
-201,Platzi,2014,310,2,4,7,No,Peru,San Francisco
+201,Platzi,2014,310,2,4,7,No,USA,San Francisco
 202,Karat Financial,2019,40,2,1,4,No,USA,San Francisco
 203,Dover,2019,50,3,4,3,Yes,USA,San Francisco
 204,Burrow,2016,30,2,4,4,Yes,USA,New York
@@ -214,7 +214,7 @@ id,company_name,founded,team_size,no_founders,no_company_socials,no_tags,Remote,
 213,Ribbon Health,2016,50,2,3,4,No,USA,New York
 214,Point,2019,37,3,2,3,Yes,USA,San Francisco
 215,Deepgram,2015,85,1,4,2,No,USA,San Francisco
-216,Culture Biosciences,,40,2,3,2,Yes,USA,South San Francisco
+216,Culture Biosciences,,40,2,3,2,Yes,USA,San Francisco
 217,Tovala,2015,200,2,3,2,Yes,USA,Chicago
 218,Weebly,,201,3,1,2,No,USA,San Francisco
 219,Sqreen,2015,65,2,4,5,Yes,USA,San Francisco
@@ -257,7 +257,7 @@ id,company_name,founded,team_size,no_founders,no_company_socials,no_tags,Remote,
 256,Unbabel,2013,175,4,4,2,Yes,USA,San Francisco
 257,Netomi,2015,104,1,2,4,Yes,USA,San Mateo
 258,Memora Health,2017,90,3,4,5,Yes,USA,San Francisco
-259,Dagger,2018,8,3,0,4,No,Portugal,San Francisco
+259,Dagger,2018,8,3,0,4,No,USA,San Francisco
 260,Gordian Software,2017,31,2,2,3,Yes,USA,Bellevue
 261,Axoni,2013,80,2,3,5,Yes,USA,New York
 262,Feather,2017,90,1,4,4,Yes,USA,New York
@@ -287,7 +287,7 @@ id,company_name,founded,team_size,no_founders,no_company_socials,no_tags,Remote,
 286,"STOKE Space Technologies, Inc",2019,49,2,1,2,No,USA,Seattle
 287,Mighty Buildings,2017,160,2,4,5,Yes,USA,Oakland
 288,Culdesac,,32,2,1,2,Yes,USA,Tempe
-289,Localyze,2018,84,3,4,4,No,Netherlands,San Francisco
+289,Localyze,2018,84,3,4,4,No,USA,San Francisco
 290,Treinta,2020,250,2,2,4,No,Colombia,Bogotá
 291,MarqVision,2020,60,2,1,6,Yes,USA,Los Angeles
 292,Omgpop,,11,0,1,2,No,USA,New York
@@ -298,7 +298,7 @@ id,company_name,founded,team_size,no_founders,no_company_socials,no_tags,Remote,
 297,Curri,2018,73,2,3,7,Yes,USA,Ventura
 298,Soomgo,,80,1,1,3,No,South Korea,Seoul
 299,Shelf Engine,2016,125,2,4,3,Yes,USA,Seattle
-300,Yassir,,200,2,0,2,No,Algeria,Algeria
+300,Yassir,,200,2,0,2,No,Algeria,
 301,Yummy,2020,550,1,2,5,Yes,Venezuela,Caracas
 302,Doppler,2018,25,2,4,5,Yes,USA,San Francisco
 303,Wefunder,2011,63,2,4,4,No,USA,San Francisco
@@ -311,17 +311,17 @@ id,company_name,founded,team_size,no_founders,no_company_socials,no_tags,Remote,
 310,Science Exchange,2011,50,2,4,6,No,USA,Palo Alto
 311,Belvo,2019,150,2,3,4,Yes,Brazil,São Paulo
 312,BeGo,2019,65,2,1,5,Yes,USA,San Francisco
-313,Moonshot Brands,2020,35,2,1,3,No,USA,Toronto
+313,Moonshot Brands,2020,35,2,1,3,No,Canada,Toronto
 314,Landed,2015,40,2,4,4,Yes,USA,San Francisco
 315,PayMongo,2019,220,2,4,3,Yes,Philippines,Taguig
 316,Volley,2016,60,2,1,7,Yes,USA,San Francisco
 317,Roboflow,2019,25,2,2,5,No,USA,Des Moines
-318,treble.ai,2019,38,3,3,2,No,Brazil,Seattle
+318,treble.ai,2019,38,3,3,2,No,USA,Seattle
 319,PostHog,2020,29,2,4,4,No,USA,San Francisco
 320,FutureAdvisor,2010,51,2,1,3,No,USA,San Francisco
 321,Legacy,2018,45,2,4,5,No,USA,Cambridge
 322,Rainbow,2019,11,3,1,4,Yes,USA,New York
-323,clicOH,2019,160,3,3,5,Yes,Argentina,Mexico City
+323,clicOH,2019,160,3,3,5,Yes,Mexico,Mexico City
 324,Reach Labs,,16,1,1,2,No,USA,Emeryville
 325,Depict,2019,23,2,1,2,Yes,Sweden,Stockholm
 326,Nomba,2017,150,2,3,3,Yes,Nigeria,Lagos
@@ -401,7 +401,7 @@ id,company_name,founded,team_size,no_founders,no_company_socials,no_tags,Remote,
 400,Priime,2014,3,4,3,2,No,USA,San Francisco
 401,Pigeonly,2012,40,2,1,3,Yes,USA,Las Vegas
 402,Dabble,2015,3,3,2,5,No,Canada,Toronto
-403,Streak,2012,35,1,3,3,Yes,,San Francisco
+403,Streak,2012,35,1,3,3,Yes,USA,San Francisco
 404,Meadow,2014,14,4,4,4,Yes,USA,San Francisco
 405,Level Frames,2014,5,2,4,3,Yes,USA,
 406,Industrial Microbes,2014,12,3,3,4,Yes,USA,Alameda
@@ -445,7 +445,7 @@ id,company_name,founded,team_size,no_founders,no_company_socials,no_tags,Remote,
 444,Think Gaming,,1,1,1,2,No,USA,New York
 445,Tenjin,2014,30,2,3,2,Yes,USA,San Francisco
 446,SpotAngels,,11,3,2,2,No,USA,San Francisco
-447,UserGems,2015,10,2,2,4,Yes,Austria,Austria
+447,UserGems,2015,10,2,2,4,Yes,Austria,
 448,Alchemy,2013,12,2,2,2,Yes,Canada,Waterloo
 449,Naytev,2014,3,2,3,4,No,USA,San Francisco
 450,MTailor,2012,11,1,4,4,No,USA,San Francisco
@@ -462,7 +462,7 @@ id,company_name,founded,team_size,no_founders,no_company_socials,no_tags,Remote,
 461,Immunity Project,,11,2,1,2,No,USA,San Francisco
 462,Dyspatch,,20,1,2,4,Yes,Canada,Victoria
 463,OpenCurriculum,2011,,1,1,4,Yes,USA,Mountain View
-464,MixerBox,,70,1,4,4,No,TW,Palo Alto
+464,MixerBox,,70,1,4,4,No,USA,Palo Alto
 465,GBatteries,2014,25,2,3,5,Yes,Canada,Ottawa
 466,Gobble,,73,1,3,2,No,USA,Palo Alto
 467,Zinc,2014,10,2,0,2,Yes,USA,San Francisco
@@ -523,7 +523,7 @@ id,company_name,founded,team_size,no_founders,no_company_socials,no_tags,Remote,
 522,CircuitLab,2012,2,2,4,4,No,USA,Redwood City
 523,9gag,,36,5,2,2,No,Hong Kong,Hong Kong
 524,Svbtle,,2,0,2,2,No,USA,San Francisco
-525,Thread,,92,2,3,2,No,United Kingdom,United Kingdom
+525,Thread,,92,2,3,2,No,United Kingdom,
 526,Plivo,2011,190,2,4,2,No,USA,Austin
 527,Double Robotics,2012,11,2,1,4,Yes,USA,Burlingame
 528,Vastrm,2012,2,1,1,2,No,USA,Burlingame
@@ -555,13 +555,13 @@ id,company_name,founded,team_size,no_founders,no_company_socials,no_tags,Remote,
 554,Terrace,2021,5,2,1,6,No,USA,Los Angeles
 555,Morf Health,2022,2,2,1,7,Yes,USA,San Francisco
 556,Materee,2022,20,2,1,4,Yes,Indonesia,Jakarta
-557,Ping,2021,20,4,2,5,No,Argentina,Miami
+557,Ping,2021,20,4,2,5,No,USA,Miami
 558,Dev Tools AI,2022,2,2,2,6,No,USA,San Francisco
 559,Guardian Bio,2022,2,2,1,6,Yes,USA,Boston
 560,Pivo Technology Inc,2021,11,2,3,7,Yes,Nigeria,Lagos
 561,Integrated Reasoning,2021,2,2,3,7,No,USA,San Francisco
 562,Coverage Cat,2022,2,2,2,4,No,USA,New York
-563,AccessOwl,2022,4,2,1,6,No,Germany,Mountain View
+563,AccessOwl,2022,4,2,1,6,No,USA,Mountain View
 564,Intuned,2022,2,2,4,6,Yes,USA,Kirkland
 565,Cone,2022,8,2,1,5,No,India,Hyderabad
 566,Landeed,2022,5,3,3,7,No,India,Hyderabad
@@ -579,23 +579,23 @@ id,company_name,founded,team_size,no_founders,no_company_socials,no_tags,Remote,
 578,Vizzly,2022,2,2,1,6,No,United Kingdom,London
 579,REVER,2022,18,2,0,2,No,Spain,Barcelona
 580,AlgoTest,2021,4,2,4,6,Yes,India,Delhi
-581,Abridge,2022,2,2,3,6,No,India,San Francisco
+581,Abridge,2022,2,2,3,6,No,USA,San Francisco
 582,Knowtex,2022,2,2,4,7,No,USA,San Francisco
 583,Taro,2022,2,2,2,7,No,USA,Redwood City
 584,MovingLake,2022,3,2,2,7,No,Mexico,Mexico City
 585,Slingshot,2022,2,2,1,5,No,USA,San Francisco
 586,Uwi,2022,14,3,3,5,Yes,Philippines,Makati
 587,Monterey AI,2022,2,2,2,6,No,USA,San Francisco
-588,Jamble,2021,3,3,0,7,No,France,San Francisco
+588,Jamble,2021,3,3,0,7,No,USA,San Francisco
 589,Lancey,2022,2,2,0,2,No,Canada,Toronto
 590,ReleviumBio,2019,4,2,2,7,No,Ireland,Galway
 591,Blockscope,2022,2,2,0,5,No,USA,New York
 592,Moonshot,2022,2,2,2,7,No,United Kingdom,London
-593,Entvin,2022,3,3,3,6,No,India,San Francisco
-594,autone,2021,8,2,1,6,Yes,Italy,London
+593,Entvin,2022,3,3,3,6,No,USA,San Francisco
+594,autone,2021,8,2,1,6,Yes,United Kingdom,London
 595,Oneleet,2022,3,2,1,7,Yes,Netherlands,Amsterdam
 596,Krave Mart,2021,80,4,4,7,No,Pakistan,Karachi
-597,Drahim 💰,2021,8,2,2,5,Yes,Saudi Arabia,Riyadh
+597,Drahim ??,2021,8,2,2,5,Yes,Saudi Arabia,Riyadh
 598,Almond,2021,5,2,3,7,Yes,USA,Los Angeles
 599,Jasmine,2022,6,3,2,6,No,USA,San Francisco
 600,Levers,2022,3,3,0,5,Yes,Saudi Arabia,Jeddah
@@ -645,8 +645,8 @@ id,company_name,founded,team_size,no_founders,no_company_socials,no_tags,Remote,
 644,Garage,2021,54,2,1,5,Yes,Ghana,Accra
 645,Chowdeck,2021,14,3,3,6,Yes,Nigeria,Lagos
 646,Maya Labs,2020,7,2,1,5,No,India,Bengaluru
-647,FlyCode,2021,7,3,3,6,Yes,Israel,New York
-648,Pluralith,2021,2,2,3,5,Yes,Austria,New York
+647,FlyCode,2021,7,3,3,6,Yes,USA,New York
+648,Pluralith,2021,2,2,3,5,Yes,USA,New York
 649,Manatee,2021,2,2,1,4,No,USA,College Park
 650,Diversion,2021,5,2,3,6,No,Israel,Tel Aviv-Yafo
 651,Cambio,2020,4,2,4,5,No,USA,Chicago
@@ -656,15 +656,15 @@ id,company_name,founded,team_size,no_founders,no_company_socials,no_tags,Remote,
 655,Coris,2022,2,2,2,5,Yes,USA,San Francisco
 656,Bitstack,2021,5,2,4,5,Yes,France,Paris
 657,Airhart Aeronautics,2022,3,2,1,7,Yes,USA,Long Beach
-658,Peoplebox,2018,20,2,4,7,Yes,India,San Francisco
-659,Zoltar Labs,2022,2,2,3,5,Yes,Singapore,Mountain View
+658,Peoplebox,2018,20,2,4,7,Yes,USA,San Francisco
+659,Zoltar Labs,2022,2,2,3,5,Yes,USA,Mountain View
 660,Nucleus,2022,2,2,2,2,Yes,USA,San Francisco
 661,Shipmates,2021,10,2,4,3,Yes,Philippines,Makati
 662,Thera,,2,2,0,7,No,USA,New York
 663,Sytex,2019,22,5,2,4,No,Argentina,Córdoba
 664,Provision,2022,2,2,3,7,No,Canada,Toronto
 665,Pulppo,2022,21,2,2,4,Yes,Mexico,Mexico City
-666,Videobug,2022,2,2,2,4,No,USA,Bengaluru
+666,Videobug,2022,2,2,2,4,No,India,Bengaluru
 667,NewsCatcher,2021,6,2,2,7,No,France,Paris
 668,Typewise,2020,12,2,3,7,Yes,Switzerland,Zürich
 669,Tersho,2022,2,2,2,7,No,USA,Jaipur
@@ -674,7 +674,7 @@ id,company_name,founded,team_size,no_founders,no_company_socials,no_tags,Remote,
 673,Ivy,2021,10,1,2,7,No,United Kingdom,London
 674,Apprecio,2021,15,1,0,5,No,Mexico,Mexico City
 675,Chainsight,2020,9,2,4,7,Yes,,
-676,Metafi,2022,2,2,1,7,Yes,Singapore,San Francisco
+676,Metafi,2022,2,2,1,7,Yes,USA,San Francisco
 677,numi foods,2022,5,2,4,6,No,Germany,Potsdam
 678,Aragorn AI,2022,4,3,1,6,No,USA,Plano
 679,the402,,2,2,1,7,No,USA,New York
@@ -689,7 +689,7 @@ id,company_name,founded,team_size,no_founders,no_company_socials,no_tags,Remote,
 688,Evoly,2021,3,2,0,2,Yes,,
 689,Juicebox,2022,2,2,1,6,Yes,USA,New York
 690,Wattvision,2009,,1,3,2,No,USA,Princeton
-691,Rio,2022,3,3,3,7,Yes,USA,Mexico City
+691,Rio,2022,3,3,3,7,Yes,Mexico,Mexico City
 692,Popsy,2021,6,2,4,7,Yes,Slovenia,Berlin
 693,Gullak Money,2022,15,3,3,4,No,India,Bengaluru
 694,Supercool,2022,4,4,2,5,Yes,,
@@ -698,24 +698,24 @@ id,company_name,founded,team_size,no_founders,no_company_socials,no_tags,Remote,
 697,Seaflight Technologies,2022,2,2,1,7,Yes,USA,Torrance
 698,Raven,2021,4,2,2,5,Yes,India,Bengaluru
 699,Cashboard,2021,7,2,0,2,No,USA,New York
-700,CodeCrafters,2022,2,2,2,5,No,Singapore,San Francisco
+700,CodeCrafters,2022,2,2,2,5,No,USA,San Francisco
 701,Notebook Labs,2022,3,3,1,5,No,USA,Stanford
 702,Blee,2022,2,2,0,6,Yes,USA,New York
 703,Overwatch,2022,5,3,2,5,Yes,USA,New York
 704,Bridgecard,2021,5,2,3,6,Yes,Nigeria,Lagos
 705,ALT TEX,2020,10,2,2,7,No,Canada,Toronto
 706,Disclo,2019,5,2,3,2,No,USA,Austin
-707,Tranch,2021,9,2,4,4,Yes,United Kingdom,New York
+707,Tranch,2021,9,2,4,4,Yes,USA,New York
 708,Sylva,2022,6,5,2,5,No,USA,San Francisco
 709,Deekard,2022,2,2,2,7,No,Germany,Berlin
-710,Sunlight,2021,5,3,0,6,Yes,Israel,San Francisco
+710,Sunlight,2021,5,3,0,6,Yes,USA,San Francisco
 711,Novig,2021,3,2,3,5,Yes,USA,New York
 712,Lyra,2021,3,2,1,5,No,USA,Houston
 713,Delegasi,2022,8,2,1,5,Yes,Indonesia,Bandung
-714,Signatur Biosciences,2022,2,2,2,7,No,United Kingdom,San Francisco
-715,NuMind,2022,3,2,3,7,No,France,Cambridge
+714,Signatur Biosciences,2022,2,2,2,7,No,USA,San Francisco
+715,NuMind,2022,3,2,3,7,No,USA,Cambridge
 716,Ballerine,2022,3,3,0,5,No,Israel,Tel Aviv-Yafo
-717,EthosX,2022,2,2,2,7,No,USA,Bengaluru
+717,EthosX,2022,2,2,2,7,No,India,Bengaluru
 718,Boostly,2017,13,2,3,5,No,USA,Orem
 719,Pilot AI,2022,3,1,1,7,No,USA,San Francisco
 720,BlueHill Payments,2022,2,2,4,7,No,USA,San Francisco
@@ -727,8 +727,8 @@ id,company_name,founded,team_size,no_founders,no_company_socials,no_tags,Remote,
 726,Serinus Biosciences,2022,2,2,0,6,Yes,USA,New York
 727,trebu,2022,3,3,1,5,No,Mexico,Mexico City
 728,Paigo,2022,2,2,1,7,Yes,USA,San Francisco
-729,Moneco,2022,3,3,0,4,No,Senegal,Geneva
-730,ilumadata,2022,2,2,1,7,No,Australia,London
+729,Moneco,2022,3,3,0,4,No,Switzerland,Geneva
+730,ilumadata,2022,2,2,1,7,No,United Kingdom,London
 731,Kapstar,2022,5,3,0,5,Yes,Brazil,São Paulo
 732,Coupl,2022,4,2,2,5,Yes,India,Bengaluru
 733,Openline,2021,7,3,2,5,No,United Kingdom,London
@@ -746,7 +746,7 @@ id,company_name,founded,team_size,no_founders,no_company_socials,no_tags,Remote,
 745,Internet Friends,2022,2,2,1,4,Yes,,
 746,Chariot,2022,3,3,1,2,No,USA,New York
 747,Levo Financial,2021,4,4,4,4,No,USA,Salt Lake City
-748,Stackup,2021,3,2,1,4,No,Australia,Los Angeles
+748,Stackup,2021,3,2,1,4,No,USA,Los Angeles
 749,Two Dots,2022,3,2,2,6,No,USA,New York
 750,Bend,2022,2,2,3,6,No,USA,New York
 751,PayO,2020,40,2,2,7,Yes,India,Bengaluru
@@ -819,9 +819,9 @@ id,company_name,founded,team_size,no_founders,no_company_socials,no_tags,Remote,
 818,GoSats,2021,8,2,3,7,Yes,India,Bengaluru
 819,Glocally,2021,3,3,1,5,Yes,Germany,Munich
 820,Deall Jobs,2020,20,1,1,6,Yes,Indonesia,Jakarta
-821,Impossible Mining,2020,20,3,3,3,Yes,Canada,Pasadena
+821,Impossible Mining,2020,20,3,3,3,Yes,USA,Pasadena
 822,Trusty,2020,6,2,4,5,No,USA,San Francisco
-823,Syncware,2021,6,2,1,7,Yes,,Singapore
+823,Syncware,2021,6,2,1,7,Yes,Singapore,Singapore
 824,TAI,2020,3,2,2,5,Yes,USA,San Francisco
 825,Circular,2021,25,4,2,6,Yes,Singapore,Singapore
 826,Powerhouse AI,2021,3,2,2,5,Yes,Singapore,Singapore
@@ -834,11 +834,11 @@ id,company_name,founded,team_size,no_founders,no_company_socials,no_tags,Remote,
 833,The Ankler,2022,2,2,3,3,No,USA,Los Angeles
 834,Darsel,2021,5,1,1,6,Yes,,
 835,Verdn,2020,3,2,1,7,No,United Kingdom,London
-836,Heptabase,2021,3,3,3,5,No,TW,Taiwan
+836,Heptabase,2021,3,3,3,5,No,Taiwan,
 837,Reviving Mind,2020,3,2,4,6,No,USA,Boston
 838,Anja Health,2021,2,1,3,5,No,USA,Los Angeles
 839,Koko,2020,2,2,3,7,No,USA,San Francisco
-840,10 minute squad,2018,11,1,3,5,No,South Korea,South Korea
+840,10 minute squad,2018,11,1,3,5,No,South Korea,
 841,Finku,2021,11,3,2,3,No,Indonesia,Jakarta
 842,Plover Parametrics,2022,3,3,0,5,No,USA,San Francisco
 843,Avocademy,2020,6,2,2,2,No,USA,Miami
@@ -846,7 +846,7 @@ id,company_name,founded,team_size,no_founders,no_company_socials,no_tags,Remote,
 845,Marft,,3,0,1,2,No,,
 846,Dumme,2022,1,1,1,4,No,,
 847,Marathon Education,2021,20,2,1,3,No,Vietnam,Ho Chi Minh City
-848,Workflow86,2020,5,1,3,7,No,Australia,San Francisco
+848,Workflow86,2020,5,1,3,7,No,USA,San Francisco
 849,Moneytree,2021,2,2,4,7,No,USA,Los Angeles
 850,WANTD,2021,4,4,4,4,No,USA,Los Angeles
 851,Humand,2021,34,2,3,5,No,USA,San Francisco
@@ -964,7 +964,7 @@ id,company_name,founded,team_size,no_founders,no_company_socials,no_tags,Remote,
 963,Bonsai Desk,2021,2,2,2,5,No,USA,Atlanta
 964,Alga Biosciences,2021,3,3,3,5,No,USA,San Francisco
 965,Tradezi,2022,5,2,0,5,Yes,Singapore,Singapore
-966,Identitypass,2021,27,3,4,6,No,USA,Lagos
+966,Identitypass,2021,27,3,4,6,No,Nigeria,Lagos
 967,Agency,2020,,2,2,7,Yes,USA,New York
 968,Pluto.markets,2021,5,2,1,4,Yes,Denmark,Copenhagen
 969,PayCrunch,2020,5,1,1,2,Yes,India,Bengaluru
@@ -977,7 +977,7 @@ id,company_name,founded,team_size,no_founders,no_company_socials,no_tags,Remote,
 976,FinFlx,2021,8,2,4,5,Yes,United Arab Emirates,Dubai
 977,LunaJoy,2021,6,2,2,5,No,USA,Atlanta
 978,Edustack,2021,7,1,3,4,Yes,India,Hyderabad
-979,Cotera,2021,2,1,2,2,No,United Kingdom,New York
+979,Cotera,2021,2,1,2,2,No,USA,New York
 980,Takt,2021,2,2,3,6,No,USA,Chicago
 981,Botin,2021,3,3,4,4,No,Costa Rica,San José
 982,Posh,2021,4,2,3,6,Yes,USA,San Francisco
