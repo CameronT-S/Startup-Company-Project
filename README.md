@@ -16,16 +16,6 @@ Questions to Answer:
 - Is there a trend in industries growth over-time?
 - What are the most common industries for startups?
 
-Conclusions:
-- Is there a trend for startups being founded over-time?
-  Yes, there is an upwards trend for startups being founded over-time.
-- Are there particular countries or cities that have more startups compared with others?
-  Yes, the city with the most startups being founded is San Fransisco and the country with the most startups being founded is the USA.
-- Is there a trend in industries growth over-time?
-  Yes, The trend for industries growth is an upwards trend mainly for particular industries that are growing in popularity.
-- What are the most common industries for startups?
-  The most common industries appear to be SaaS and Fintech followed by Development Tools.
-
 Data Analysis: Is there a trend for startups being founded over-time?
 - 
 - Using the column founded and calculating the total startups founded by year I created a time-series line graph to view the trend of data.
@@ -65,4 +55,13 @@ Data Analysis: What are the most common industries for startups?
 Conclusion:
 - The most common industries appear to be SaaS and Fintech followed by Development Tools.
 
-
+Conclusions:
+-
+- Is there a trend for startups being founded over-time?
+  Yes, there is an upwards trend for startups being founded over-time.
+- Are there particular countries or cities that have more startups compared with others?
+  Yes, the city with the most startups being founded is San Fransisco and the country with the most startups being founded is the USA.
+- Is there a trend in industries growth over-time?
+  Yes, The trend for industries growth is an upwards trend mainly for particular industries that are growing in popularity.
+- What are the most common industries for startups?
+  The most common industries appear to be SaaS and Fintech followed by Development Tools.
