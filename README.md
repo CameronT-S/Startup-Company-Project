@@ -6,5 +6,4 @@
 
 - Data Cleaning and Wrangling in Python
 - Exploratory Analysis with SQL Google BigQuery
-- Further Analysis in Python
 - Data Visualisation with Tableau
