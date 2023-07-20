@@ -5,6 +5,7 @@ Introduction:
 - Data Source: Kaggle (https://www.kaggle.com/datasets/thedevastator/empowering-the-next-wave-of-entrepreneurs?datasetId=2644305&sortBy=dateRun&tab=bookmarked&select=ycombinator.csv)
 
 Visualisation on Tableau:
+-
 - https://public.tableau.com/views/StartupCompaniesProject/Story1?:language=en-US&:display_count=n&:origin=viz_share_link
 
 On this project we will be performing the following tasks:
