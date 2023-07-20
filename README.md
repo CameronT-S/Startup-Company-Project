@@ -4,8 +4,8 @@ Introduction:
 - This project will be exploring the data on startup companies in the US and other countries from 2006 until 2022. I want to look into the data to understand the startup market in more depth and to understand what trends are currently ongoing in the startup market and if there are any common traits between startups.
 - Data Source: Kaggle (https://www.kaggle.com/datasets/thedevastator/empowering-the-next-wave-of-entrepreneurs?datasetId=2644305&sortBy=dateRun&tab=bookmarked&select=ycombinator.csv)
 Visualisation on Tableau:
-- https://public.tableau.com/views/StartupCompanies2006to2022Visualisations/StartupsOverTime?:language=en-US&:display_count=n&:origin=viz_share_link
-- https://public.tableau.com/views/StartupCompanies2006to2022Visualisations2/StartupsbyIndustry?:language=en-US&:display_count=n&:origin=viz_share_link
+-
+- https://public.tableau.com/views/StartupCompaniesProject/Story1?:language=en-US&:display_count=n&:origin=viz_share_link
 
 On this project we will be performing the following tasks:
 
